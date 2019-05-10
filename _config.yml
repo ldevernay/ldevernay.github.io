@@ -16,8 +16,8 @@
 title: Chez LauDev
 email: ldevernay@simplon.co
 description: >- # this means to ignore newlines until "baseurl:"
-  A simple blog about coding and teaching.  
-  No extra features needed.   
+  Un blog minimaliste sur le code, la pédagogie et les jeux en tous genres.
+  Et la veille techno, bien sûr! 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ldevernay

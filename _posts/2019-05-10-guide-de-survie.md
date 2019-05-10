@@ -11,3 +11,6 @@ A l'origine, j'utilisais papaly pour ça mais les fonctionnalités étaient trop
 
 > Les retours sont les bienvenus. 
 > Si vous vous étonnez de ne pas voir apparaître certains liens, n'hésitez pas à me les transmettre pour que je les ajoute.
+
+
+![Hope this helps](https://media.giphy.com/media/cC9MIzmGcXTkUvjLxS/giphy.gif)
