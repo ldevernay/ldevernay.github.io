@@ -14,6 +14,8 @@ Tant pis.
 Coup de bol phénoménal, c'est alors qu'est intervenu Simplon et que tout a changé. Il leur fallait un formateur en développement web pour l'école régionale du numérique, il me fallait un travail.      
 Le deal était simple : choisir quinze apprenants parmi des décrocheurs scolaires, chômeurs longue durée et autres personnes ayant du mal à trouver leur place dans le monde du travail. En huit mois de formation + dix semaines de stage en entreprise, il s'agit de leur apprendre le métier de développeur web et surtout de leur faire mettre un pied dans le monde du travail.     
 En somme, le début d'une belle aventure.     
-Je vous en reparle très vite parce que ce que ça me semble importe de donner un contexte à tout ce qui va se passer sur ce site.       
-Ceci n'est en aucun cas un publi-reportage pour Simplon et les propos qui suivront n'engageront que moi.     
-Tout retour constructif est toujours le bienvenu.
+Je vous en reparle très vite parce que ce que ça me semble importe de donner un contexte à tout ce qui va se passer sur ce site.      
+       
+      
+> Ceci n'est en aucun cas un publi-reportage pour Simplon et les propos qui suivront n'engageront que moi.     
+> Tout retour constructif est toujours le bienvenu.
