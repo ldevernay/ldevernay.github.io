@@ -15,7 +15,7 @@ De mon point de vue, créer son propre site/blog est indispensable mais il faut 
 ## Décentraliser le web
 Il est indispensable de ne pas subir le web.  
 Si vous passez par Facebook, soyez prêt à assumer ce qu'ils font de vos données personnelles.   
-Si vous utilisez par Medium, assumez leurs défauts d'accessibilité et leur politique tarifaire aberrante. Ils monétisent VOTRE contenu.   
+Si vous utilisez Medium, assumez leurs défauts d'accessibilité et leur politique tarifaire aberrante. Ils monétisent VOTRE contenu.   
 Si vous passez par une plateforme de blogging, assumez l'UX pourrie, les pubs intempestives, le côté absolument pas éco-conçu du truc, etc.
 
 ## Une question d'identité
