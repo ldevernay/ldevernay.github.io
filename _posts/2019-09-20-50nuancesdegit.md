@@ -51,7 +51,7 @@ On finira avec quelques outils et astuces pour se faciliter la vie.
 * [Explorer le dossier .git](https://www.freecodecamp.org/news/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807/)
 
 ### Outils
-C'est bien beau, tout ça, mais se pose aussi le choix de l'endroit où déposer tous vos beaux repos. Le choix de base est souvent [Github](https://github.com/). Pourtant, [Gitlab](https://gitlab.com/) semble plus complet (en plus de ses engagements éthiques, jusque dans l'énergie qui alimente ses serveurs... ce qui n'est pas négligeable quand on pense à la quantité de données hébergées). Sans oublier [Bitbucket](https://bitbucket.org/). Rien ne vous empêche non plus d'héberger vous-même avec [Gogs](https://gogs.io/) ou [Gitea](https://gitea.io/en-us/) pour aller directement à l'essentiel.  
+C'est bien beau, tout ça, mais se pose aussi le choix de l'endroit où déposer tous vos beaux repos. Le choix de base est souvent [Github](https://github.com/). Pourtant, [Gitlab](https://gitlab.com/) semble plus complet (en plus de ses engagements éthiques, jusque dans l'énergie qui alimente ses serveurs... ce qui n'est pas négligeable quand on pense à la quantité de données hébergées)(promis, je migre ce site dès que j'ai 2 min). Sans oublier [Bitbucket](https://bitbucket.org/). Rien ne vous empêche non plus d'héberger vous-même avec [Gogs](https://gogs.io/) ou [Gitea](https://gitea.io/en-us/) pour aller directement à l'essentiel.  
 Au passage, notez qu'un outil vous permet de générer directement votre portfolio depuis votre compte Github : [Gitfolio](https://github.com/imfunniee/gitfolio).  
 Et qu'un autre facilite la suppression de vos repos github (c'est qu'on en entasse rapidement, des trucs) : [Reporemover](https://reporemover.xyz/).  
   
