@@ -35,7 +35,7 @@ On finira avec quelques outils et astuces pour se faciliter la vie.
 * [Une façon de gérer ses branches](https://nvie.com/posts/a-successful-git-branching-model/)
 
 
-### Rattrapper ses erreurs
+### Rattraper ses erreurs
 (parce que personne n'est parfait, surtout avec git)
 * [Oh shit, git!](https://jvns.ca/blog/2018/10/27/new-zine--oh-shit--git-/)
 * [Dangit, git!](http://dangitgit.com/)
