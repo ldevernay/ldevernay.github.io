@@ -63,6 +63,7 @@ Enfin, on ne le dira jamais assez, améliorer l'accessibilité de votre site rev
 Depuis septembre 2019, les choses bougent autour de l'accessibilité en France. Voici les principaux points à retenir : 
 * l'obligation d'accessibilité des plateformes numériques, jusque-là réservée aux acteurs publics, s'étend désormais aux acteurs privés dont le CA annuel dépasse 250 millions d'euros. 
 * pour tous les acteurs concernés, une déclaration d'accessibilité recensant les conformités et non-conformités au référentiel devra ête publiée sur le site. En cas de non-conformité, des sanctions sont possibles (2000 ou 20000€, selon les cas).
+  
 Le référentiel mis à jour est disponible [ici](https://www.numerique.gouv.fr/actualites/accessibilite-numerique-la-quatrieme-version-du-rgaa-est-publiee/).  
 Il recense les différents critères ainsi que les tests et conditions de tests afin de mener un audit complet. D'ici fin 2019, des ressources seront ajoutées afin de faciliter les démarches d'audit et de mise en conformité. De même, une liste des critères non-obligatoires sera également publiée afin d'aller encore plus loin dans cette démarche.   
 Plus que jamais, c'est un bon point de départ pour comprendre les critères de conformité liés à l'accessibilité mais aussi leur mise en oeuvre.  
