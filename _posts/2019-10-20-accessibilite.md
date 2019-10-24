@@ -59,6 +59,18 @@ Voici quelques notions qui sont à mon avis à regarder en priorité (et que vou
 Un site plus accessible le sera aussi pour les robots, ce qui améliorera notamment votre référencement naturel.  
 Enfin, on ne le dira jamais assez, améliorer l'accessibilité de votre site revient à améliorer l'expérience de l'ensemble de vos utilisateurs.  
 
+#### Réglementation française
+Depuis septembre 2019, les choses bougent autour de l'accessibilité en France. Voici les principaux points à retenir : 
+* l'obligation d'accessibilité des plateformes numériques, jusque-là réservée aux acteurs publics, s'étend désormais aux acteurs privés dont le CA annuel dépasse 250 millions d'euros. 
+* pour tous les acteurs concernés, une déclaration d'accessibilité recensant les conformités et non-conformités au référentiel devra ête publiée sur le site. En cas de non-conformité, des sanctions sont possibles (2000 ou 20000€, selon les cas).
+Le référentiel mis à jour est disponible [ici](https://www.numerique.gouv.fr/actualites/accessibilite-numerique-la-quatrieme-version-du-rgaa-est-publiee/).  
+Il recense les différents critères ainsi que les tests et conditions de tests afin de mener un audit complet. D'ici fin 2019, des ressources seront ajoutées afin de faciliter les démarches d'audit et de mise en conformité. De même, une liste des critères non-obligatoires sera également publiée afin d'aller encore plus loin dans cette démarche.   
+Plus que jamais, c'est un bon point de départ pour comprendre les critères de conformité liés à l'accessibilité mais aussi leur mise en oeuvre.  
+Pour les entreprises, la mise en conformité doit intervenir avant : 
+* avant le 1er octobre 2020 pour des sites internet ou intranet créés avant le 1er octobre 2019.
+* immédiatement pour les sites internet ou extranet créés après le 1er octobre 2019.
+* avant le 1er juillet 2021 pour les applications mobiles, progiciels ou mobiliers numériques urbains (distributeurs de tickets pour les transports en commun, etc).
+
 #### Conclusion
 Le chantier de l'accessibilité pour le web est déjà très riche et encadré par plusieurs réglementations. Pour autant, l'état des lieux dressé par WebAIM souligne tout ce qu'il reste encore à faire. En incorporant la notion d'accessibilité dès aujourd'hui dans vos méthodes de travail, vous verrez rapidement que (comme pour les autres valeurs abordées dans la présente série d'articles), il est facile d'identifier des mesures simples avec un impact plus que conséquent.  
 La question de l'accessibilité pour les applis mobiles reste entière. Les bonnes pratiques de conception existent (car c'est souvent à ce niveau que tout se joue) mais je ne connais pas forcément d'outils pour mesurer l'accessibilité similaires à ceux utilisés pour les sites internet. Toutefois, c'est aussi pour moi une bonne raison supplémentaire de se pencher plutôt que les Progressive Web Apps ([voir mon billet précédent à ce sujet](https://ldevernay.github.io/green/2019/09/16/pwa.html)).
