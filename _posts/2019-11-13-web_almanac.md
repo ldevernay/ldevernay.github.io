@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comprendre le web grâce à HTTPArchive"
-date:   2019-11-14 10:59:53 +0200
+date:   2019-11-13 10:59:53 +0200
 categories: green
 ---
 [HTTPArchive](https://httparchive.org/) récolte en continu des données relatives aux sites web.  
