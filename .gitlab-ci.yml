@@ -14,6 +14,7 @@ pages:
   stage: deploy
   before_script: 
     - gem install bundler
+    - gem install jekyll
   script:
     - bundle exec jekyll build -d public/
   artifacts:
