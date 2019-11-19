@@ -12,7 +12,8 @@ before_script:
 # the 'pages' job will deploy and build your site to the 'public' path
 pages:
   stage: deploy
-  before_script: gem install bundler
+  before_script: 
+    - gem install bundler
   script:
     - bundle exec jekyll build -d public/
   artifacts:
