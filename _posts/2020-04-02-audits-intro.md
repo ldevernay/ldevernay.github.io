@@ -84,7 +84,7 @@ La loi de Wirth s'explique par le poids grandissant des sites web, logiciels et 
   
 ![Internet minute 2019](/assets/2019.jpg)    
     
-Dans le cas des sites web, [le site HttpArchive](https://httparchive.org/) suit en continu en presque l'évolution du web, en particulier la taille des pages ainsi que divers indicateurs techniques. On peut ainsi voir que [la taille des pages web augmente de façon considérable](https://s3.amazonaws.com/media-p.slid.es/uploads/618299/images/6936704/Screenshot_2020-01-07_State_of_the_Web.png).   
+Dans le cas des sites web, [le site HttpArchive](https://httparchive.org/) suit en continu l'évolution du web, en particulier la taille des pages ainsi que divers indicateurs techniques. On peut ainsi voir que [la taille des pages web augmente de façon considérable](https://s3.amazonaws.com/media-p.slid.es/uploads/618299/images/6936704/Screenshot_2020-01-07_State_of_the_Web.png).   
 Là aussi, les explications peuvent être nombreuses (stack technique inappropriée ou mal maîtrisée, contenus non-optimisés, etc). 
 Enfin, le [streaming](https://theshiftproject.org/article/climat-insoutenable-usage-video/?fbclid=IwAR2qbrWtgeuUL4xAktYYano3KTYx0I2OaVE9u7wxOXklvexRqnX4yGcvZbc) et la [publicité en ligne](https://www.greenit.fr/2015/09/01/la-publicite-represente-39-du-poids-des-pages-web/) consomment par exemple énormément de bande passante.    
     
