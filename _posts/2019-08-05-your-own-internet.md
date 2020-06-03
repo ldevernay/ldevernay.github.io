@@ -2,7 +2,7 @@
 layout: post
 title:  "Créez votre propre site"
 date:   2019-08-05 10:59:53 +0200
-categories: various
+categories: learn
 ---
 
 Il s'agit là d'une question récurrente pour les développeurs web et autres profils rattachés au web : faut-il créer son propre site/blog?

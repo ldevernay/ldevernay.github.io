@@ -2,7 +2,7 @@
 layout: post
 title:  "Laravel - from github to localhost"
 date:   2017-10-13 12:00:00 +0200
-categories: learn
+categories: code
 ---
 
 Some useful (and badly documented) tricks to use an existing Laravel project locally without getting ugly cryptic errors.   
