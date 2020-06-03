@@ -1,0 +1,13 @@
+---
+layout: page
+title: Catégories
+---
+<h1>Catégories</h1>
+Cette page regroupe toutes les catégories des articles proposés.
+Pour chacune, vous trouverez une description rapide ainsi que les contenus concernés.
+
+<ul>
+    {% for category in site.categories %}
+    <li><a href="{{category.url}}">{{category.name}}</a></li>
+    {% endfor %}
+</ul>
