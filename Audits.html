@@ -1,0 +1,25 @@
+---
+layout: page
+title: Audits d'écoconception
+---
+
+<p>Depuis plusieurs mois s'amorce une grosse prise de conscience autour de l'impact écologique du numérique. Il en découle
+entre autres la nécessité de s'intéresser à l'écoconception de service numérique.</p>
+<p>Cette série d'articles a pour but de présenter le résultat d'une suite de plusieurs audits sur des sites web ainsi que
+sur les outils et procédures utilisés.</p>
+<p>
+Les objectifs de cette démarche sont multiples :  
+<ul>
+<li> Sensibiliser les interlocuteurs retenus sur le sujet de l'impact environnemental de leurs sites web</li>
+<li> Mettre au point une méthodo d'audit d'écoconception simple et rapide à mettre en oeuvre pour les sites web</li>
+<li> Faire monter en compétences les apprenants ayant pris part au projet.</li>
+</ul>
+</p>
+
+<h2>Les articles</h2>
+<ul>
+    {% assign filtered_posts = site.posts | where_exp: "item", "item.title contains 'Audits d'" | sort: "date" %}
+    {% for post in filtered_posts %}
+    <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% endfor %}
+</ul>
