@@ -25,7 +25,7 @@ Voici les éléments-clés de cette démarche :
   
 Souvent, l'écoconception repose uniquement sur les développeurs. Cette démarche n'est pas viable car plus de la moitié des impacts se trouvent en amont de leur intervention. Il est donc essentiel que toute l'équipe intervenant sur et autour du projet soit sensibilisée et que la démarche s'inscrive dans le temps.   
    
-Pour un exemple d'audits d'écoconception sur des services numériques et les retours correspondants : [[PDF] Bilan GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf). *GreenConcept est une opération pilotée par la CCI d'Occitanie afin d'accompagner 28 entreprises vers l'éconception de certains de leurs services numériques en s'appuyant sur une équipe d'experts.*    
+Pour un exemple d'audits d'écoconception sur des services numériques et les retours correspondants : [[PDF] Bilan GreenConcept](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf). *GreenConcept est une opération pilotée par la CCI d'Occitanie afin d'accompagner 28 entreprises vers l'écoconception de certains de leurs services numériques en s'appuyant sur une équipe d'experts.*    
   
 ### Bénéfices de l'écoconception web 
 [Les valeurs](https://ldevernay.github.io/green/2019/09/03/valeurs.html) et bonnes pratiques du web sont nombreuses. Concernant la notion de qualité web, je me permets de vous orienter [directement vers Opquast](https://www.opquast.com/). Ces valeurs sont liées à l'écoconception web : 
