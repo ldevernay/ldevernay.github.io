@@ -5,7 +5,8 @@ date:   2020-04-02 10:59:53 +0200
 categories: green
 ---
 
-Attention, voici le début d'une série de plusieurs articles issus d'un gros chantier autour de l'éconception web. Comme toujours ici, la fréquence de mise en ligne sera aléatoire mais une bonne partie des textes sont déjà prêts donc croisons les doigts.      
+Attention, voici le début d'une série de plusieurs articles issus d'un gros chantier autour de l'éconception web. Comme toujours ici, la fréquence de mise en ligne sera aléatoire mais une bonne partie des textes sont déjà prêts donc croisons les doigts.    
+Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](https://ldevernay.github.io/Audits.html).  
    
 ## Contexte
 Depuis plusieurs mois s'amorce une grosse prise de conscience autour de l'impact écologique du numérique. Il en découle entre autres la nécessité de s'intéresser à l'écoconception de service numérique.  
