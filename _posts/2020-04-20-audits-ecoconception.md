@@ -3,6 +3,7 @@ layout: post
 title:  "Audits d'écoconception - écoconception web"
 date:   2020-04-20 10:59:53 +0200
 categories: green
+description: Le second article sur les audits d'écoconception web réalisés dans le cadre de la formation à Simplon Carbonne. Ici, nous allons nous intéresser à la notion d'écoconception web.
 ---
 
 Voici le second article sur les audits d'écoconception web réalisés dans le cadre de la formation à Simplon Carbonne.   

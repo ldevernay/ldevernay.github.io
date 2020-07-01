@@ -3,6 +3,7 @@ layout: post
 title:  "Organiser sa veille techno"
 date:   2019-05-14 10:59:53 +0200
 categories: veille
+description: Des liens à foison.
 ---
 La dernière fois, je vous parlais de Raindrop, grâce auquel j'ai pu compiler et trier les liens issus de ma veille techno. Ils se trouvent ici : [https://raindrop.io/collection/7258291](https://raindrop.io/collection/7258291)   
 Aujourd'hui, je vais revenir un peu plus en détails sur la façon dont je procède pour ma veille techno. 

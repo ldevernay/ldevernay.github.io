@@ -3,6 +3,7 @@ layout: post
 title:  "Wordpress et éco-conception"
 date:   2019-12-13 10:59:53 +0200
 categories: green
+description : Wordpress, c'est super, on peut tout faire avec. Mais ce n'est pas une raison pour faire n'importe quoi. Voici donc quelques pistes pour réduire l'impact environnemental d'un site Wordpress.
 ---
 
 Wordpress, c'est super, on peut tout faire avec. Mais ce n'est pas une raison pour faire n'importe quoi. Ca fait donc un petit moment que je me pose la question d'un Wordpress éco-conçu.    

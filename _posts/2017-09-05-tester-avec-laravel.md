@@ -3,6 +3,7 @@ layout: post
 title:  "Tester avec Laravel"
 date:   2017-09-05 12:00:00 +0200
 categories: code
+description: Il paraît que tester, c'est douter. Voici comment tester avec Laravel.
 ---
 
 Pour resituer, Laravel est un framework PHP basé entre autres sur Symfony. L'intérêt est qu'il embarque tout un tas d'outils (ORM, générateur de templates, etc) afin de vous faciliter la vie.    

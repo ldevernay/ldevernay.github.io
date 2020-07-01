@@ -3,6 +3,7 @@ layout: post
 title:  "Formateur chez Simplon, ça consiste en quoi?"
 date:   2017-06-20 12:00:00 +0200
 categories: bio
+description: Ma vie, mon oeuvre et la formation chez Simplon.
 ---
 
 # Formateur chez Simplon, ça consiste en quoi?

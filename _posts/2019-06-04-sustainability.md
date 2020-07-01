@@ -3,6 +3,7 @@ layout: post
 title:  "Designing for sustainability"
 date:   2019-06-04 10:59:53 +0200
 categories: green
+description: Designing for Sustainability, une lecture qui change la vie (et le développement web).
 ---
 Ceci n'est pas une fiche de lecture ni de la pub mais plutôt un retour sur tout ce que peut apporter l'ouvrage [Designing for Sustainability](http://shop.oreilly.com/product/0636920043904.do).
 

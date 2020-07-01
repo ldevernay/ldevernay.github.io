@@ -3,6 +3,7 @@ layout: post
 title:  "50 nuances de git"
 date:   2019-09-20 10:59:53 +0200
 categories: code
+description: Git est devenu incontournable, voyons pourquoi et comment aborder ce vaste sujet.
 ---
 
 Il y a fort fort longtemps, on avait à peu près le choix de l'outil pour gérer son code. Enfin, j'ai surtout connu l'époque où on avait le choix entre CVS et SVN (avec une préférence pour SVN). Git est arrivé comme un bulldozer et est aujourd'hui très souvent le choix par défaut. SQL ressort souvent comme LA techno qui vous servira tout au long de votre carrière de développeur. Peut-être que Git prend le même chemin.  

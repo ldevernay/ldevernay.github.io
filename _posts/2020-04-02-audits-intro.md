@@ -3,6 +3,7 @@ layout: post
 title:  "Audits d'écoconception - introduction"
 date:   2020-04-02 10:59:53 +0200
 categories: green
+description: Le début d'une série de plusieurs articles issus d'un gros chantier autour de l'éconception web. Où l'on présente le contexte et la démarche.
 ---
 
 Attention, voici le début d'une série de plusieurs articles issus d'un gros chantier autour de l'éconception web. Comme toujours ici, la fréquence de mise en ligne sera aléatoire mais une bonne partie des textes sont déjà prêts donc croisons les doigts.    

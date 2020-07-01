@@ -3,6 +3,7 @@ layout: post
 title:  "Ecoconception web : bilan 2019 et perspectives 2020"
 date:   2020-01-06 10:59:53 +0200
 categories: green
+description: Le point sur l'éco-conception web avant de se pencher sur ce qui pourrait bouger en 2020. 
 ---
 
 Déjà, bonne année à tous (il paraît que c'est d'usage en ce moment).

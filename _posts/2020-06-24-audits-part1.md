@@ -3,6 +3,7 @@ layout: post
 title:  Audits d'écoconception - ADEME & Act for climate
 date:   2020-06-24 08:59:53 +0200
 categories: green
+description: Le quatrième article sur les audits d’écoconception web réalisés dans le cadre de la formation à Simplon Carbonne. Nous attaquons le vif du sujet avec la présentation des audits réalisés pour l'ADEME et pour Act for Climate.  
 ---
 
 Voici le quatrième article sur les audits d’écoconception web réalisés dans le cadre de la formation à Simplon Carbonne.   

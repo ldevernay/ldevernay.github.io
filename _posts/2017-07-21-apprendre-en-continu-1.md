@@ -3,6 +3,7 @@ layout: post
 title:  "Apprendre en continu - partie 1"
 date:   2017-07-21 12:00:00 +0200
 categories: learn
+description: Choisir de coder, c'est choisir d'apprendre en continu. Voici quelques outils pour ça.
 ---
 
 Où l'on se permet une petite parenthèse sur l'apprentissage. Si vous aimez apprendre de nouvelles choses, le développement web est un excellent sujet.       

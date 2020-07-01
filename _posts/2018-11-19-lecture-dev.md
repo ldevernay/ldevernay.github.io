@@ -3,6 +3,7 @@ layout: post
 title:  "De la lecture pour le dev"
 date:   2018-11-19 12:00:00 +0200
 categories: learn
+description: Internet, c'est formidable. Pourtant, les livres papier, c'est bien aussi pour mieux s'y retrouver et adopter les bons réflexes.
 ---
 
 Voici une petite liste de livres qui me semblent couvrir des aspects essentiels du développement (web et autres). Avec aussi une petite liste d'ouvrages pour un budget réduit.

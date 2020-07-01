@@ -3,6 +3,7 @@ layout: post
 title:  "Microsoft + github = ❤ "
 date:   2018-06-07 12:00:00 +0200
 categories: opinion
+description: Cracher sur Microsoft est un sport olympique pour certains et l'acquisition de Github est à regarder de plus près.
 ---
 
 Suite à l'annonce de l'acquisition de GitHub, il est comme souvent de bon aloi de cracher sur Microsoft. Je vous comprends, j'ai aussi été traumatisé par Windows quand j'étais petit (voire moins petit). Sans compter les nombreuses casseroles que peut se traîner Microsoft. Alors, oui, ils sont coutumiers des entourloupes, [envoient des gens en prison](https://www.youtube.com/watch?v=FaoJErxYLtM) et ont une politique commerciale qui a de quoi hérisser le poil aux plus robustes d'entre nous.   

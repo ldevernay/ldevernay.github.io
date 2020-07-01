@@ -3,6 +3,7 @@ layout: post
 title:  "Comment je suis devenu formateur"
 date:   2017-06-20 12:00:00 +0200
 categories: bio
+description: Comment je suis devenu formateur chez Simplon.
 ---
 # Formateur chez Simplon : les origines secrètes
 Quitte à inaugurer mon propre site (entre autres parce que j'en ai marre de Medium mais on y reviendra), je reprend cet article détaillant mon parcours.       

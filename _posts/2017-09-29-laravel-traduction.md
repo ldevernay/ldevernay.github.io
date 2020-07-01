@@ -3,6 +3,7 @@ layout: post
 title:  "Laravel - constantes et traduction"
 date:   2017-09-29 12:00:00 +0200
 categories: code
+description: Gérer proprement ses constantes avec Laravel, notamment pour la traduction.
 ---
 
 Cet article présente quelques astuces très utiles pour gérer ses constantes dans Laravel (5.4 et autres).

@@ -3,6 +3,7 @@ layout: post
 title:  "Préparer sa transition écologique"
 date:   2019-06-10 10:59:53 +0200
 categories: green
+description: La transition écologique ne sera pas sans le numérique, voici quelques pistes pour concilier les deux. 
 ---
 OK, on s'éloigne un peu des problématiques autour du code, de la formation et de la veille.   
 Mais pas tant que ça alors tenez bon.    

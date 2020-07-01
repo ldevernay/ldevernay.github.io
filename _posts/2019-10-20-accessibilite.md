@@ -3,6 +3,7 @@ layout: post
 title:  "Accessibilité"
 date:   2019-10-20 10:59:53 +0200
 categories: green
+description: La suite des valeurs du développeur avec cette fois l'accessibilité.
 ---
 
 J'avais annoncé une série de billets suite à [celui sur les valeurs du développeur](https://ldevernay.github.io/green/2019/09/03/valeurs.html).

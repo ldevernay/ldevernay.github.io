@@ -3,6 +3,7 @@ layout: post
 title:  "Laravel - from github to localhost"
 date:   2017-10-13 12:00:00 +0200
 categories: code
+description : How to move your laravel website from Github to your local machine. Tips and voodoo tricks.
 ---
 
 Some useful (and badly documented) tricks to use an existing Laravel project locally without getting ugly cryptic errors.   

@@ -3,6 +3,7 @@ layout: post
 title:  "Le retour du Hacktoberfest!"
 date:   2019-09-27 10:59:53 +0200
 categories: code
+description: Hacktoberfest, des pull-requests contre du swag. De préférence pour une bonne cause. 
 ---
 
 Le mois d'octobre approche. Le retour des feuilles mortes, de Halloween et surtout... du [Hacktoberfest](https://hacktoberfest.digitalocean.com/)!  

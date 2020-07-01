@@ -3,6 +3,7 @@ layout: post
 title:  "Comprendre le web grâce à HTTPArchive"
 date:   2019-11-13 10:59:53 +0200
 categories: green
+description: Utiliser HTTPArchive pour prendre le pouls de l'impact environnemental du web (et l'application des bonnes pratiques).
 ---
 [HTTPArchive](https://httparchive.org/) récolte en continu des données relatives aux sites web.  
 Sur un échantillon de plusieurs millions de site, ils sont capables de fournir des tonnes d'indicateurs très intéressants.  
