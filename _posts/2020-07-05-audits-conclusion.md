@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Audits d'écoconception - conclusion"
-date:   2020-07-06 10:59:53 +0200
+date:   2020-07-05 10:59:53 +0200
 categories: green
 description: Après tous ces audits, voici les premières conclusions et notamment des pistes pour auditer rapidement un site web sur des critères d'éco-conception. 
 ---
