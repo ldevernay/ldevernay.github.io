@@ -8,6 +8,8 @@ description: Après tous ces audits, voici les premières conclusions et notamme
 
 Après plusieurs audits d'éco-conception, les premières conclusions s'imposent. Celles-ci ont pour objectif de faciliter la vie de ceux qui souhaiteraient aussi vérifier si un site respecte les bonnes pratiques d'éco-conception.   
 Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](https://ldevernay.github.io/Audits.html).  
+
+> Merci à Alain Tord du collectif GreenIT pour ses retours précieux.
    
 ## Méthodo retenue
 Nous étions partis sur ces audits avec toute une liste d'outils gratuits et pas mal de pistes sur la méthodo à adopter. Nous en ressortons donc avec de nombreuses informations. Reste à faire un peu de tri dans tout ça.    
@@ -17,7 +19,8 @@ Chaque outil d'audit renvoie de nombreux indicateurs.
 Nous avons retenu ceux qui vont dans le sens de l'écoconception (alléger ce qui est envoyé au client, alléger le parcours utilisateur, etc). Afin de mieux identifier les bonnes pratiques à mettre en place et les prioriser, nous nous sommes appuyés sur le [recueil des 115 bonnes pratiques d'écoconception](https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html).       
 Il semblerait judicieux de privilégier un outil comme [web.dev](https://web.dev/measure/) qui permet de mesurer simultanément la performance, les bonnes pratiques, le SEO et l'accessibilité. Cependant, cet outil est moins visuel et concret que d'autres outils plus spécialisés. Au final, nous avons réussi à identifier un panel d'outils, moyennant quelques cas particuliers à prendre en compte.    
 * [GreenIT Analysis](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad) : idéal pour mesurer des indicateurs d'écoconception sur une page donnée et vérifier les bonnes pratiques. La version Chrome du plugin est à privilégier car plus complète (pour la bonne raison que l'API de Firefox est pour l'instant moins complète sur certains aspects). Pour mesurer un parcours utilisateur dans son intégralité, le plus pratique reste [le plugin Ecoindex](https://addons.mozilla.org/fr/firefox/addon/ecoindex/). 
-* [PageSpeed Insights :](https://developers.google.com/speed/pagespeed/insights/) très bien pour mesurer la performance et obtenir des recommandations concrètes ainsi que les bénéfices attendus suite à leur mise en application. [Pingdom](https://tools.pingdom.com) ou [GT Metrix](https://gtmetrix.com/analyze.html) peuvent être utilisés en complément, de même que les DevTools Firefox ou Chrome. C'est pour cela que nous l'avons utilisé en priorité pour les audits. Entre-temps, un autre outil a fait son apparition ([Fast Or Slow](https://www.fastorslow.com/app)) et il est bien parti pour changer la donne. Il semble plus complet que ses concurrents et très visuel. Aujourd'hui, il est donc pertinent de préférer Fast or Slow.
+* [Fast Or Slow](https://www.fastorslow.com/app): très bien pour mesurer la performance et obtenir des recommandations concrètes ainsi que les bénéfices attendus suite à leur mise en application. Permet d'effectuer les mesures depuis plusieurs localisations et de recevoir régulièrement des résultats à jour.  
+> Pendant les audits, nous avions utilisé [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) car Fast or Slow n'existait pas encore. [Pingdom](https://tools.pingdom.com) ou [GT Metrix](https://gtmetrix.com/analyze.html) peuvent être utilisés en complément, de même que les DevTools Firefox ou Chrome.  
 * [Wave](https://wave.webaim.org/) : permet de mesurer l'accessibilité. Il y en a évidemment d'autres mais celui-ci peut être installé directement dans le navigateur et va droit à l'essentiel.
 * Pour les sites Wordpress et à défaut de disposer d'un accès à l'administration, [WPScan](https://wpscan.org/) permet d'avoir un aperçu des plugins installés et du thème utilisé. Même si ceci permet de vérifier s'il existe des failles de sécurité, le plus simple reste d'aller chercher les informations directement auprès du propriétaire du site concerné par l'audit. Surtout si vous voulez une liste des plugins utilisés, le nom du thème. Ce sera beaucoup plus simple.   
     
@@ -27,26 +30,35 @@ Au final, les autres outils ont été laissés de côté car jugés redondants o
 #### Pourquoi mesurer tout ça?
 L'éco-conception est étroitement liée à d'autres domaines de la qualité web. 
 * L'accessibilité est essentielle car, si on n'y fait pas attention, l'accès sera plus compliqué pour certains internautes. Concrètement, ceci peut les empêcher d'accéder au service souhaité et alourdir l'empreinte environnementale en allongeant leur parcours sur le site. 
-* La performance est intéressante à mesurer car l'éco-conception tend à l'améliorer. Attention toutefois car l'inverse n'est pas forcément vrai : certaines pratiques pour améliorer la performance d'un site peuvent dégrader son impact environnemental. En gros, si un site n'est pas performant, l'éco-conception est un bon filtre pour identifier commme y remédier. Inversement, si un site est performant, regardez comment on arrive à ce résultat, notamment en vérifiant les bonnes pratiques d'éco-conception. 
+* La performance est intéressante à mesurer car l'éco-conception tend à l'améliorer. Attention toutefois car l'inverse n'est pas forcément vrai : certaines pratiques pour améliorer la performance d'un site peuvent dégrader son impact environnemental. En gros, si un site n'est pas performant, l'éco-conception est un bon filtre pour identifier comment y remédier. Inversement, si un site est performant, regardez comment on arrive à ce résultat, notamment en vérifiant les bonnes pratiques d'éco-conception. 
 * Comme nous l'avons déjà évoqué, le SEO conditionne l'accès au site web. Plus le site sera facile à trouver et à identifier, plus le parcours utilisateur sera allégé. 
 
 ### Les indicateurs   
-Comme indiqué plus haut, nous avons choisi de mettre en avant les indicateurs suivants : 
-* Taille de la page (mesuré) => GreenIT-Analysis
-* Nombre de requêtes HTTP (mesuré) => GreenIT-Analysis
-* Nombre d'éléments dans le DOM (mesuré) => GreenIT-Analysis
-* Eco-index (calculé) => GreenIT-Analysis
-* Emission de gaz à effet de serre en équivalent CO2 (calculé) => GreenIT-Analysis
-* Consommation d'eau (calculé) => GreenIT-Analysis
-* Performance Score (calculé) => Fast or Slow 
-
-Au sujet de ce dernier, il peut être pertinent d'aller plus précisément vers des indicateurs de performance plus précis si le propriétaire du site peut être plus réceptif sur ce sujet (First Contentful Paint, Time to Interactive ou autre).  
-> Le Performance Score remplace le PageSpeed Index de PageSpeed Insights utilisé précédemment. La logique reste la même mais nous préconisons d'utiliser plutôt Fast or Slow.  
+Comme indiqué plus haut, nous avons choisi de mettre en avant les indicateurs suivants :
+  
+| Indicateur | Type | Outil utilisé |    
+| ------ | ------ | ------ |    
+| Eco-index | Calculé | GreenIT-Analysis |  
+| Taille de la page | Mesuré | GreenIT-Analysis |  
+| Nombre de requêtes HTTP | Mesuré | GreenIT-Analysis |  
+| Nombre d'éléments dans le DOM | Mesuré | GreenIT-Analysis |  
+| Emission de gaz à effet de serre en équivalent CO2 | Calculé | GreenIT-Analysis |  
+| Consommation d'eau | Calculé | GreenIT-Analysis |  
+| Performance Score | Calculé | Fast or Slow |  
+| Nombre d'erreurs d'accessibilité | Calculé | Wave |  
+| Nombre d'erreurs de contraste | Calculé | Wave |  
+  
+Au sujet de ce dernier, il peut être pertinent d'aller plus précisément vers des indicateurs de performance plus précis si le propriétaire du site peut être plus réceptif sur ce sujet, comme par exemple : 
+* [First Contentful Paint](https://web.dev/first-contentful-paint/) : temps que met le navigateur pour afficher le premier élément du DOM
+* [Time to Interactive](https://web.dev/interactive/) : le temps qui s'écoule avant que le site ne soit totalement interactif
+   
+> Le Performance Score de Fast of Slow remplace le PageSpeed Index de PageSpeed Insights [utilisé précédemment](https://ldevernay.github.io/green/2020/06/24/audits-part1.html). Il apparaît tout aussi pertinent mais Fast or Slow est lui-même préféré car plus complet.  
 
 L'idée générale pour ces indicateurs est de fournir des éléments de comparaison et, au-delà des bonnes pratiques, d'avoir des ordres de grandeur dont on pourra mesurer l'évolution au fil du temps.
 
 #### Et l'accessibilité?
-Après tout ce que j'ai écrit plus haut, vous pouvez vous étonner de ne pas trouver d'indicateur lié à l'accessibilité. Ceci est dû au fait que l'audit d'accessibilité se base plutôt sur des non-conformités ou le respect de bonnes pratiques. Mais il n'y a pas à proprement parler d'indicateur d'accessibilité, sauf à vouloir construire un indicateur chiffré de conformité. 
+L'audit d'accessibilité se base plutôt sur des non-conformités ou le respect de bonnes pratiques. Il n'existe pas à ma connaissance d'indicateur calculé ou facilement mesurable. J'ai donc pris le parti de retenir le nombre d'erreurs et d'erreurs de contraste. Ces deux indicateurs sont directement remontés par Wave. [Les erreurs de contraste sont aujourd'hui les plus fréquentes sur le web](https://webaim.org/projects/million/).  
+L'idée n'est pas forcément de chercher à résoudre toutes les erreurs indiquées par Wave (quoique...) mais déjà d'en prendre conscience. La plupart du temps, les solutions restent faciles à mettre en oeuvre et de premières pistes sont données par l'outil directement. 
   
 
 ### Ce qu'il faut auditer 
@@ -54,10 +66,10 @@ Comme nous l'avons vu plus haut, plusieurs cas se dessinent :
 
 #### Page unique
 Si le site ne contient qu'une seule page, il suffit d'analyser cette page.  
-Ca semble évident, dit comme ça.   
+Ca semble évident, dit comme ça, mais cela ne fait jamais de mal de le rappeler.  
 
 #### Site multi-pages
-Si le site est composé de plusieurs pages, la page d'accueil est incontournable. Il faut ensuite déterminer un échantillon d'environ 5 pages parmi les plus visitées. Parfois, ce ne sont pas forcément les plus utiles du point de vue du client (et inversement). Avoir des statistiques sur l'utilisation du site (Google Analytics, Matomo ou autres) peut constituer un bon point de départ pour identifier les pages à analyser en priorité. 
+Si le site est composé de plusieurs pages, la page d'accueil est incontournable. Il faut ensuite déterminer un échantillon d'environ 5 à 10 pages parmi les plus visitées. Parfois, ce ne sont pas forcément les plus utiles du point de vue du client (et inversement). Avoir des statistiques sur l'utilisation du site (Google Analytics, Matomo ou autres) peut constituer un bon point de départ pour identifier les pages à analyser en priorité. 
 
 Le RGAA (Référentiel Général d'Amélioration de l'Accessibilité) propose [sa propre liste de pages à auditer en priorité](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/obligations/#%C3%89chantillon) : 
 * Page d'accueil
@@ -67,7 +79,7 @@ Le RGAA (Référentiel Général d'Amélioration de l'Accessibilité) propose [s
 * Page d'aide
 * Page d'authentification
 * Au moins une page pertinente pour chaque type de service fourni
-* Toute page ayant un aspect ou un contenu distinct. 
+* Toute page ayant un aspect ou un contenu distinct (document téléchargeable, infographie, photo, vidéo, formulaire, etc). 
    
 #### Découpage en services numériques
 Si des parcours utilisateur clairs se précisent, il faut auditer chacun de ces parcours en détail (contacter l'administrateur du site, commander un article, effectuer une réclamation, trouver un trajet, etc).     
@@ -114,7 +126,7 @@ Vous avez aussi la possibilité de définir un budget pour votre site. Vous pouv
 * Nombre d'éléments dans le DOM 
   
 Rappelez-vous que l'éco-conception nécessite de remettre l'utilisateur au coeur du process. Dans ces conditions, il est indispensable de regarder plus largement la qualité web. Et vous pouvez bien sûr vous appuyer sur [Opquast](https://checklists.opquast.com/fr/qualiteweb/) pour cela. Vous trouverez d'ailleurs chez eux [des check-lists dédiées à certaines thématiques indispensables](https://checklists.opquast.com/fr): Accessibilité, Webperf, SEO, GreenIT mais aussi Web Mobile.  
-Même si on en voit de moins en moins, pensez à tous ces sites web non-optimisés pour le mobile et au temps perdu pour naviguer dessus. Et dites-vous que, dans ce cas, les développeurs n'ont pas forcément penser à optimiser les images pour des appareils mobiles.  
+Même si on en voit de moins en moins, pensez à tous ces sites web non-optimisés pour le mobile et au temps perdu pour naviguer dessus. Et dites-vous que, dans ce cas, les développeurs n'ont pas forcément pensé à optimiser les images pour des appareils mobiles.  
 
 
 ### Conclusion 
@@ -122,8 +134,8 @@ On se retrouve donc avec un set d'outils dont la plupart peuvent être installé
 En renfort, une fois de plus, le recueil des 115 bonnes pratiques permet de faire du tri dans les bonnes pratiques et de les prioriser (en évaluant l'impact de chacune mais aussi leur facilité de mise en oeuvre). Notamment parce que certaines ne peuvent pas être mesurées directement (autoplay, flash, etc).   
 Toutefois, on reste ici sur des pistes d'optimisations techniques. Comme nous l'avons déjà vu, l'écoconception web doit être abordée de façon transverse : avec tous les membres de l'équipe projet, sur toutes les phases du cycle de vie du service numérique.   
 Au cours d'un audit, on pourra ainsi fournir des préconisations sur : 
+* La sobriété fonctionnelle (ce qui peut être retiré ou modifié pour alléger le site et/ou le parcours utilisateur) 
 * La stack technique (mais c'est souvent difficile à mettre en oeuvre dès lors qu'on a commencé à développer le site) 
 * L'hébergeur (même si le client va parfois rechigner à en changer... et qu'il peut être difficile de trouver l'hébergeur idéal) 
-* La sobriété fonctionnelle (ce qui peut être retiré ou modifié pour alléger le site et/ou le parcours utilisateur) 
   
 Ca tombe bien, on reviendra là-dessus dans le prochain article (qui conclura vraiment cette série d'articles sur les audits d'éco-conception, c'est promis).
