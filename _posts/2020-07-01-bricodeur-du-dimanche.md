@@ -3,7 +3,7 @@ layout: post
 title:  Le bricodeur du dimanche
 date:   2020-07-01 08:59:53 +0200
 categories: green
-description: Dans cet article, je vous explique comment j'ai bidouillé mon site pour qu'il fasse tout comme les grands tout en garde un impact environnemental aussi restreint que possible. 
+description: Dans cet article, je vous explique comment j'ai bidouillé mon site pour qu'il fasse tout comme les grands tout en gardant un impact environnemental aussi limité que possible. 
 ---
 
 Après deux articles sur les audits d'éco-conception, une pause s'impose.  
