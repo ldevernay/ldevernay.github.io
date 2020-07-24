@@ -144,7 +144,7 @@ Pour le fun (on sait s'amuser, ici), j'ai comparé :
 | Greenhouse Gases Emission (gCO2e)	| 1.62 |  
 | Water Consumption (cl) 	| 2.43 |  
 | Eco Index |	69 |  
-| Grade |	D |  
+| Grade |	B |  
   
 #### Présentation exemple ici-même
   
