@@ -36,13 +36,20 @@ paginate_path: posts/page:num
 collections:
   categories: 
     output: true
+  presentations:
+    output: true
 
 defaults:
   - scope:
       path: ""
       type: "categories"
     values:
-      layout: "category"    
+      layout: "category" 
+  - scope:
+      path: ""
+      type: "presentations"
+    values:
+      layout: "presentation"   
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

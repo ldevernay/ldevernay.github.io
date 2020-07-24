@@ -1,0 +1,12 @@
+---
+layout: page
+title: Présentations
+---
+Cette page regroupe toutes mes présentations.   
+Le temps de les migrer ici parce qu'elles sont pour l'instant disséminées un peu partout.
+
+<ul>
+    {% for presentation in site.presentations %}
+    <li><a href="{{presentation.url}}" target="_blank">{{presentation.title}}</a></li>
+    {% endfor %}
+</ul>
