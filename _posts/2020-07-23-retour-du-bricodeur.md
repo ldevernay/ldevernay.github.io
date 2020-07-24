@@ -125,3 +125,37 @@ C'est toujours aussi plaisant de bidouiller Jekyll.
 Je garde aussi en tête de regarder si je ne peux pas encore plus alléger ce qui reste de reveal.js (minifier, compresser et virer ce qui ne sert pas).  
 Mais je trouve que c'est déjà un bon début. 
 Je me demande aussi, si ça intéresse d'autres utilisateurs de Jekyll, s'il n'y a pas moyen d'en faire un petit truc "plug and play" (genre un plugin). Ou carrément de créer un boilerplate de site jekyll minimaliste pour que chacun puisse mettre à dispo ses présentations (via un hébergement sur gitlab, github ou autres). Mais pas de raison de s'emballer tant qu'il n'y a pas vraiment de besoin là-dessus. #sobriete
+
+### Bonus
+Pour le fun (on sait s'amuser, ici), j'ai comparé :
+* la prez exemple hébergée sur mon site
+* une prez vierge fraîchement créée sur slides.com
+
+
+**Note**: ici, on s'intéresse au service numérique "Afficher une présentation". Les gains sont d'autant plus considérables sur le service numérique "Créer une présentation", dans la mesure où celui-ci se fait désormais hors-ligne.
+
+#### Slides.com  
+   
+| Indicateur | Valeur |  
+| ------ | ------ |	  
+| Request number |	22 |  
+| Page Size (Kb) | 	3626.944 |  
+| Dom Size |	162 |  
+| Greenhouse Gases Emission (gCO2e)	| 1.62 |  
+| Water Consumption (cl) 	| 2.43 |  
+| Eco Index |	69 |  
+| Grade |	D |  
+  
+#### Présentation exemple ici-même
+  
+| Indicateur | Valeur |
+| ------ | ------ |	
+| Request number |	19 |  
+| Page Size (Kb) | 	473.038 |  
+| Dom Size |	84 |  
+| Greenhouse Gases Emission (gCO2e)	| 1.36 |  
+| Water Consumption (cl) 	| 2.04 |  
+| Eco Index |	82 |  
+| Grade |	A |  
+  
+  
