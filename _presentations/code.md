@@ -10,13 +10,22 @@ style: league
                 
 Pour bien garder en tête.
 >Citation  
+   
+!!!
+These are the notes for the first slide
 ///
 ## Demo 1  
     let a = 2;
     let b = 3;
     console.log(a+b);
+  
+!!!
+This will only display in the notes window...
 ///
 ## Demo 1  
   
 Slide 3   
 ![Jenga](/assets/jenga.png)
+   
+!!!
+... and this is great!
