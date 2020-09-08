@@ -49,5 +49,5 @@ Un livret pédagogique propose des liens vers ressources, des activités courtes
 Petite précision : chez Simplon, nous sommes sur de la pédagogie active. Donc fonctionnement par projet, pas mal d'autonimie pour les apprenants et du travail de groupe. En conséquence, on part sur des activités et des projets plutôt que sur des contenus "statiques". 
 ///
 ## Contact
-* Site web : [ldevernay.github.io](ldevernay.github.io/)
+* Site web : [ldevernay.github.io](https://ldevernay.github.io/)
 * Courriel : ldevernay@simplon.co
