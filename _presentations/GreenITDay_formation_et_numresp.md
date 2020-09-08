@@ -43,10 +43,10 @@ Enfin, le numérique responsable est un sujet structurant pour les apprenants. I
 (et pédago active)
   
 !!!
-Création d'un support de présentation permettant en 1h max d'aborder les différents volets du numérique responsable au début de chaque formation. Ce support est accessible à tous, de même que l'enregistrement d'une présentation. Cette présentation est également disponible en anglais pour le déploiement à l'international.  
+Petite précision : chez Simplon, nous sommes sur de la pédagogie active. Donc fonctionnement par projet, pas mal d'autonimie pour les apprenants et du travail de groupe. En conséquence, on part sur des activités et des projets plutôt que sur des contenus "statiques".  
+Création d'un support de présentation permettant en 1h max d'aborder les différents volets du numérique responsable au début de chaque formation. Ce support est accessible à tous, de même que l'enregistrement d'une présentation. Cette présentation est également disponible en anglais pour le déploiement à l'international. L'idée ici n'est pas de dérouler des slides mais d'initier des échanges, des réflexions et des petites actions qui vont venir bousculer les apprenants et leur ouvrir les yeux sur certains sujets (panopticon, haveibeenpwnd, FOMO).    
 Afin de faciliter la propagation du Numérique Responsable, passage par des relais qui s'emparent du sujet et sont en mesure de répondre aux questions et d'assurer la présentation => tâche en cours.  
 Un livret pédagogique propose des liens vers ressources, des activités courtes pour les apprenants ainsi que des briefs projets et des sujets d'évaluation. Certains de ces items touchent le Numérique Responsable dans sa globalité, d'autres sont spécifiques à certains domaines (accessibilité, sécurité, données personnelles, écoconception, économie de l'attention, etc). Ainsi chaque formateur peut piocher dedans pour introduire le Numérique Responsable dans son programme de formation.  
-Petite précision : chez Simplon, nous sommes sur de la pédagogie active. Donc fonctionnement par projet, pas mal d'autonimie pour les apprenants et du travail de groupe. En conséquence, on part sur des activités et des projets plutôt que sur des contenus "statiques". 
 ///
 ## Contact
 * Site web : [ldevernay.github.io](https://ldevernay.github.io/)
