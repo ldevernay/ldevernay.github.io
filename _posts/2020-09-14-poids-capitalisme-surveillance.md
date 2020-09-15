@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "L'insoutenable poids du capitalisme de surveillance"
-date:   2020-09-08 10:59:53 +0200
+date:   2020-09-14 10:59:53 +0200
 categories: contributions
 description: L'impact environnemental du numérique n'est pas seulement lié aux usages, il est avant tout à un modèle économique intrusif et inapproprié qui remet en question les fondamentaux du web.    
 
