@@ -29,7 +29,7 @@ Avec tout ça, déjà, on se sent un peu mieux.
 OK, c'est un début et c'est toujours mieux que rien. Disons que tout ceci fait partie des bonnes pratiques de base qu'on devrait tous adopter.   
 Sauf que le plus gros impact environnemental vient de nos équipements (en particulier leur fabrication). Essayez donc en priorité de prolonger leur durée de vie et d'acheter du reconditionné.  
   
-Astuce : si votre ordi sous Windows rame, sauvez-le en installant Ubuntu (ou une autre distrib Linux, je ne suis pas sectaire). La bonne nouvelle est que vous y retrouverez toutes les fonctionnalités les plus utilisées. La mauvaise nouvelle est que vous n'aurez plus le temps de vous faire une raclette pendant qu'il démarre (ce n'est pas encore la saison de la raclette, ceci dit). Pour le prochain Digital Cyber Cleanup World Day Platinum Edition, ce serait peut-être une idée de proposer une install party Ubuntu. 
+Astuce : si votre ordi sous Windows rame, sauvez-le en installant Ubuntu (ou une autre distrib Linux, je ne suis pas sectaire). La bonne nouvelle est que vous y retrouverez toutes les fonctionnalités les plus utilisées. La mauvaise nouvelle est que vous n'aurez plus le temps de vous faire une raclette pendant qu'il démarre (ce n'est pas encore la saison de la raclette, ceci dit). Pour le prochain Digital Cyber Cleanup World Day Platinum Edition, ce serait peut-être une idée de proposer une install party Ubuntu.  
 Même s'il est essentiel d'avoir une idée de l'impact de ses propres pratiques liées au numérique, il est regrettable de se focaliser sur des bonnes pratiques plutôt anecdotiques. Si on veut que cette question soit prise en main de façon durable, il vaut mieux aider chacun à se construire un modèle mental sur les impacts environnementaux du numérique plutôt que de lancer des actions symboliques mais éphémères (mais ce n'est que mon avis). 
   
 ## Le pompon sur le gâteau
@@ -45,7 +45,7 @@ Un audit très rapide montra que quelque chose avait dû mal se passer.
 | Eco Index 	| 31 |
 | Grade 	| E |
 
-Erreurs d'accessibilité : 131 (!!!), principalement des items sans alternative textuelle et des erreurs de contraste.
+131 erreurs d'accessibilité (!!!), principalement des items sans alternative textuelle et des erreurs de contraste.
   
 | Url	| https://digital.worldcleanupday.org/ |
 | Request number	| 69 | 
@@ -76,5 +76,5 @@ C'est juste dommage de le faire en 4x4.
 
 ## Conclusion
 Je suis vraiment très content de voir des initiatives aller dans le sens de la réduction de l'impact environnemental du numérique. Toutefois, plutôt que des actions ponctuelles et parfois symboliques (et pas toujours dans le bon sens du terme), je trouve essentiel d'aller plutôt vers de la pédagogie si on veut instaurer un changement durable des comportements.  
-Et commencer par s'appuyer sur des outils écoconçus voire en accord avec les différents volets du numérique responsable.  
+Ce serait aussi l'occasion de s'appuyer sur des outils écoconçus voire en accord avec les différents volets du numérique responsable.  
 *(je suis entré en contact avec les organisateurs du Cyber World Cleanup Day pour aborder la question de leur site, c'est un début)*
