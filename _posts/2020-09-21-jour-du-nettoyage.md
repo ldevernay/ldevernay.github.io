@@ -78,3 +78,10 @@ C'est juste dommage de le faire en 4x4.
 Je suis vraiment très content de voir des initiatives aller dans le sens de la réduction de l'impact environnemental du numérique. Toutefois, plutôt que des actions ponctuelles et parfois symboliques (et pas toujours dans le bon sens du terme), je trouve essentiel d'aller plutôt vers de la pédagogie si on veut instaurer un changement durable des comportements.  
 Ce serait aussi l'occasion de s'appuyer sur des outils écoconçus voire en accord avec les différents volets du numérique responsable.  
 *(je suis entré en contact avec les organisateurs du Cyber World Cleanup Day pour aborder la question de leur site, c'est un début)*
+  
+## Bonus
+Histoire de finir sur une note concrète, voici quelques pistes pour mettre en oeuvre des gestes efficaces autour de nos usages du numérique (et comprendre pourquoi) : 
+* [Une infographie de l'ADEME](http://multimedia.ademe.fr/infographies/infographie-travail-ademe-logo-qqf/)
+* [Délégation académique au numérique éducatif - Lyon](http://dane.ac-lyon.fr/spip/10-eco-gestes-pour-des-usages)
+  
+Attention, chacune de ces pages fait 4Mo et un EcoIndex pas top du tout! #tristesse
