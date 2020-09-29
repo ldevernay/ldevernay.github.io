@@ -196,6 +196,10 @@ La 4G est plus énergivore que le wifi.
 ET SURTOUT : PRENEZ SOIN DE VOS EQUIPEMENTS!
 !!!
 https://www.greenit.fr/2018/09/18/reduire-empreinte-numerique-a-maison/
+Pour d'autres bonnes pratiques :  
+* http://multimedia.ademe.fr/infographies/infographie-travail-ademe-logo-qqf/ 
+* http://dane.ac-lyon.fr/spip/10-eco-gestes-pour-des-usages 
+  
 ///
 ## Conclusion  
 Le numérique a une existence physique.  
