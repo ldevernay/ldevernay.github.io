@@ -22,6 +22,18 @@ L’étude du collectif GreenIT à ce sujet : https://www.greenit.fr/etude-empre
 D’où proviennent ces impacts, à votre avis?  
 
 ///
+## Interlude : Internet
+![Aperçu de l'infrastructure d'internet](/assets/internet_infra-min.png)
+!!!
+Internet = réseau qui sert de base au web.  
+Lorsque vous allez sur un site web, vous passez par de multiples routeurs et autres équipements avant d'arriver au bon serveur. Celui-ci se connectera souvent à d'autres machines pour charger tous les éléments dont il a besoin (code, médias, etc).  
+* 45 millions de serveurs
+* 800 millions d'équipements réseaux (routeurs, box ADSL, etc)
+* 22 milliars d'objets connectés
+  
+Plaquette ADEME : [la face cachée du numérique](https://www.ademe.fr/sites/default/files/assets/documents/guide-pratique-face-cachee-numerique.pdf).
+Et pourtant, le plus gros des impacts ne vient pas de là.
+///
 ![Répartition des impacts](/assets/Repartition_impacts.png)
   
 !!!
@@ -29,7 +41,7 @@ Une infographie qui présente une bonne première approche du sujet : https://ww
 Souvent, pour l’impact écologique du numérique, on a tendance à pointer du doigt les data centres. Ils consomment effectivement de l'électricité et de l'eau. De même pour le réseau (les câbles, les antennes, les routeurs, etc). Gardez en tête que le digital a une existence tout ce qu'il y a de plus physique.  
 Derrière chaque navigation sur le web, derrière chaque image, chaque vidéo, il y a des machines et des câbles qui courent à travers le monde entier. Il y a aussi des quantités incroyables d'électricité, sachant que celle-ci est encore en grande partie dans le monde produite à partir de matériaux fossiles.  
 Les utilisateurs sont à l'origine de la plupart des impacts environnementaux en raison de leurs équipements (smartphones, tablettes, etc). 
-Intéressons-nous donc à nos smartphones. 
+Intéressons-nous donc à nos smartphones.   
 ///
 ## La naissance d'un smartphone  
 * Les matières premières (70 matériaux)
