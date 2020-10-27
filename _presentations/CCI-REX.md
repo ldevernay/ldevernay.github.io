@@ -21,7 +21,7 @@ Quelques chiffres :
 Réalisation d'[audits](https://ldevernay.github.io/green/2020/07/05/audits-conclusion.html) = analyser des outils + affiner la méthodo.  
 Méthodo retenue : 
 * Audit de service numérique
-* 3 outils : GreenIT-Analysis, FastOrSlow, Wave  
+* 3 outils : [GreenIT-Analysis](https://chrome.google.com/webstore/detail/greenit-analysis/mofbfhffeklkbebfclfaiifefjflcpad), [FastOrSlow](https://www.fastorslow.com/app), [Wave](https://wave.webaim.org/)  
 
 => Mesurer régulièrement, automatiser ce qui peut l'être.   
 => Actions correctives planifiées, nécessité de former. 
