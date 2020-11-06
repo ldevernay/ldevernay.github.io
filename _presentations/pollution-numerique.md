@@ -6,6 +6,9 @@ style: sky
 ## L'impact du numérique
 Le numérique et ses bienfaits sont au coeur de nos quotidiens.  
 Attardons-nous aujourd'hui sur les impacts moins connus.  
+
+!!!
+Se présenter rapidement (si je ne le note pas, je n'y pense pas). 
 ///
 ## Pollution et numérique  
 Aujourd'hui, qu'est-ce qui pollue le plus?  
@@ -217,15 +220,15 @@ Pour d'autres bonnes pratiques :
 Le numérique a une existence physique.  
 !!!
 A l'origine, le plastique devait soulager l'environnement.  
-Il est bien moins cher à produire que les alternatives (papier, métal, verre, etc). Pourtant, aujourd'hui, il gangrène notre planète et en particulier nos océans.  
-Le numérique suit un chemin similaire (effet rebond ou paradoxe de Jevons).  
-Par exemple, il devait réduire le nombre des impressions papier. Pourtant, leur nombre a explosé car il est aujourd'hui beaucoup plus facile d'imprimer. 
-Les bienfaits du numérique sont pourtant indéniables.  
+Il est bien moins impactant à produire que les alternatives (papier, métal, verre, etc). Pourtant, aujourd'hui, il gangrène notre planète et en particulier nos océans (effet rebond ou paradoxe de Jevons).  
+Le numérique suit un chemin similaire.  
+Par exemple, il devait réduire le nombre des impressions papier. Pourtant, leur nombre a explosé car il est aujourd'hui beaucoup plus facile d'imprimer. [Certains, comme La Poste, découvrent même que le numérique est parfois plus impactant pour la planète que le papier](https://solutionsbtob.laposte.fr/mediapositiveimpact).
+Il y a aussi un modèle économique à repenser. Le capitalisme de surveillance et l'économie de l'attention doivent laisser place à une économie numérique centrée sur l'utilisateur et surtout sur la planète.   
 Si vous voulez quelque chose, il y a forcément une appli pour ça.  
 A l'extrême, nous sommes tombés dans le solutionnisme technologique.  
 Aujourd'hui, la prise de conscience commence et les professionnels travaillent sur le sujet (notamment par le biais de l'écoconception de service numérique). L'introduction dans la loi française commence à peine mais on est encore bien loin de ce qu'il faudrait.  
 Chacun a un rôle à jouer dans ses usages quotidiens et il est important d'en tenir compte.  
-Pourtant, il y a aussi un modèle économique à repenser. Le capitalisme de surveillance et l'économie de l'attention doivent laisser place à une économie numérique centrée sur l'utilisateur et surtout sur la planète.  
+Les bienfaits du numérique restent pourtant indéniables et celui-ci a un rôle à jouer dans la transition écologique. Reste à l'utiliser de façon responsable.
 ///
 ## Contact
 * Site web : [ldevernay.github.io](https://ldevernay.github.io/)
