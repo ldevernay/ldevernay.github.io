@@ -196,12 +196,15 @@ Pour regagner votre attention, limitez les notifications que vous recevez (si ç
 ## Autres bonnes pratiques
 * Débranchez les appareils que vous n'utilisez pas (box, etc)
 * Limitez ce que vous stockez en ligne (mails, photos, etc)
-* Pour les mails, limitez les destinataires et les pièces jointes. 
 * Préférez le wifi à la 4G
+* En visio, préférez l'audio à la vidéo quand c'est possible
 !!!
 En débranchant les appareils inutilisés, vous pouvez économiser entre 10 et 20% sur votre facture d'électricité.  
-Tout ce que vous gardez en ligne sans l'utiliser consomme de l'électricité.  
-La 4G est plus énergivore que le wifi. 
+Tout ce que vous gardez en ligne sans l'utiliser consomme de l'électricité (et cela concernerait 90% des donnés stockées en ligne).  
+La 4G est plus énergivore que le wifi (wifi < 3G < 4G < 5G...).
+Audio : 24 Kb/s
+SD : 1024 Kb/s
+HD : 2048 Kb/s
 ///
 ## Dernières bonnes pratiques
 * Préférez la TNT (ou un DVD) à Internet pour votre télé
