@@ -13,6 +13,14 @@ Arrivés là, on a plusieurs possibilités :
 * continuer à faire du Wordpress mais avec un prestataire qui l'allège à votre place
 * passer sur une autre techno
 
+> **Mise à jour du 26/01/2021**  
+>Le sujet Wordpress + écoconception commence à prendre de l'ampleur et les usages évoluent. Je complète donc avec quelques ressources : 
+>* [L'article d'Infogreen Factory sur le sujet](https://infogreenfactory.green/2021/01/ecoconception-et-wordpress-partie-1/)
+>* [WPS Cleaner, pour faire du vide](https://fr.wordpress.org/plugins/wps-cleaner/)
+>* [Matomo, pour une alternative éthique à Google Analytics](https://fr.wordpress.org/plugins/matomo/)
+>
+>Et j'en profite pour rappeler que toutes ces optimisations auront toujours moins d'impact qu'une démarche de sobriété numérique dès le début du projet mais aussi lors de la publication de contenu et de la fin de vie (suppression ou mise à jour régulières de contenus, suppression éventuelle du site au bout d'un temps défini).
+
 ## Wordpress forever
 Si vous voulez à tout prix créer un nouveau site Wordpress aussi léger que possible, [voici un article qui résume très bien tout ce qui est possible](https://www.capybara.consulting/2019/12/10/l-eco-conception-en-wordpress-c-est-possible/).   
 C'est vraiment un super article qui vous donne toutes les clés pour améliorer votre site dès la conception et vous indique aussi tous les outils pour valider que ce que vous avez fait va dans le bon sens.    
