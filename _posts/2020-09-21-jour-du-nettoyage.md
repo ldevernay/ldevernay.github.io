@@ -68,7 +68,7 @@ L'autre site présente en bas de page un fil Instagram d'une utilité plus que d
   
 *Toute ressemblance avec des sites web ou individus existant ou ayant existé serait purement fortuite.*
    
-On voit que ce sont 2 sites Wordpress, ce qui n'empêche pas d'[optimiser son site du point de vue du numérique responsable](https://ldevernay.github.io/green/2019/12/13/wordpress_eco.html). En revanche, c'est souvent un signe de "on n'a pas les moyens mais on a des idées et, ô, regardez ce super plugin gratuit pour ajouter un fil Instagram"©.  
+On voit que ce sont 2 sites Wordpress, ce qui n'empêche pas d'[optimiser son site du point de vue du numérique responsable]({% post_url 2019-12-13-wordpress_eco %}). En revanche, c'est souvent un signe de "on n'a pas les moyens mais on a des idées et, ô, regardez ce super plugin gratuit pour ajouter un fil Instagram"©.  
 C'est aussi là le défaut de la gratuité des outils sur le web (voire du bénévolat): on en a pour son argent (et le vrai coût est porté par la planète). Mais on en reparlera plus tard.  
 En soi, c'est très bien d'aller répandre la bonne parole pour réduire l'impact environnemental du numérique.  
 C'est juste dommage de le faire en 4x4.   

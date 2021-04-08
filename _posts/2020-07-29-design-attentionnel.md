@@ -6,11 +6,11 @@ categories: attention
 description: Sur le sujet des valeurs du développeur, la question du design attentionnel est essentielle. En effet, le design permet aujourd'hui de manipuler facilement les utilisateurs, ce qui va à l'encontre d'un devoir de transparence et d'honnêteté à leur égard.  
 
 ---
-Maintenant que la série de billets sur les audits d'écoconception est bouclée, revenons sur [les valeurs du développeur](https://ldevernay.github.io/green/2019/09/03/valeurs.html). Pour rappel, on avait déjà abordé ici : 
-* [Accessibilité](https://ldevernay.github.io/green/2019/10/20/accessibilite.html)
-* [Performance](https://ldevernay.github.io/green/2019/11/12/performance.html)
-* [Eco-conception web](https://ldevernay.github.io/green/2020/04/20/audits-ecoconception.html)
-* [La sécurité](https://ldevernay.github.io/green/2020/05/03/securite.html)
+Maintenant que la série de billets sur les audits d'écoconception est bouclée, revenons sur [les valeurs du développeur]({% post_url 2019-09-03-valeurs %}). Pour rappel, on avait déjà abordé ici : 
+* [Accessibilité]({% post_url 2019-10-20-accessibilite %})
+* [Performance]({% post_url 2019-11-12-performance %})
+* [Eco-conception web]({% post_url 2020-04-20-audits-ecoconception %})
+* [La sécurité]({% post_url 2020-05-03-securite %})
   
 Cette fois, intéressons-nous au design attentionnel. Cette notion regroupe toutes les pratiques de design qui visent à nous rendent accros à nos smartphones et plus généralement à certains outils numériques.  
 Pour aborder ce sujet, posez-vous ces questions : 

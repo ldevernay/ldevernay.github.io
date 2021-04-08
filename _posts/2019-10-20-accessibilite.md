@@ -6,7 +6,7 @@ categories: green
 description: La suite des valeurs du développeur avec cette fois l'accessibilité.
 ---
 
-J'avais annoncé une série de billets suite à [celui sur les valeurs du développeur](https://ldevernay.github.io/green/2019/09/03/valeurs.html).
+J'avais annoncé une série de billets suite à [celui sur les valeurs du développeur]({% post_url 2019-09-03-valeurs %}).
 Voici celui sur l'accessibilité.  
 Les autres suivront à leur rythme, le temps que je m'y replonge et que je fasse du tri dans les ressources à ma disposition.  
 
@@ -75,4 +75,4 @@ Pour les entreprises, la mise en conformité doit intervenir avant :
 
 #### Conclusion
 Le chantier de l'accessibilité pour le web est déjà très riche et encadré par plusieurs réglementations. Pour autant, l'état des lieux dressé par WebAIM souligne tout ce qu'il reste encore à faire. En incorporant la notion d'accessibilité dès aujourd'hui dans vos méthodes de travail, vous verrez rapidement que (comme pour les autres valeurs abordées dans la présente série d'articles), il est facile d'identifier des mesures simples avec un impact plus que conséquent.  
-La question de l'accessibilité pour les applis mobiles reste entière. Les bonnes pratiques de conception existent (car c'est souvent à ce niveau que tout se joue) mais je ne connais pas forcément d'outils pour mesurer l'accessibilité similaires à ceux utilisés pour les sites internet. Toutefois, c'est aussi pour moi une bonne raison supplémentaire de se pencher plutôt que les Progressive Web Apps ([voir mon billet précédent à ce sujet](https://ldevernay.github.io/green/2019/09/16/pwa.html)).
+La question de l'accessibilité pour les applis mobiles reste entière. Les bonnes pratiques de conception existent (car c'est souvent à ce niveau que tout se joue) mais je ne connais pas forcément d'outils pour mesurer l'accessibilité similaires à ceux utilisés pour les sites internet. Toutefois, c'est aussi pour moi une bonne raison supplémentaire de se pencher plutôt que les Progressive Web Apps ([voir mon billet précédent à ce sujet]({% post_url 2019-09-16-pwa %})).

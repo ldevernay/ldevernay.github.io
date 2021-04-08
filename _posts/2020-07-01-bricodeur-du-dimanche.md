@@ -25,12 +25,12 @@ L'idée est vraiment chouette :
 
 La mise en place demande un peu de bricolage mais ce n'est vraiment pas compliqué et c'est surtout très élégant et léger.  
 J'en ai profité pour ajouter une description sur tous mes billets, ce qui permet au passage de l'afficher dans la liste des billets et de rendre l'affichage un peu plus parlant.   
-Bref, [la recherche, c'est fait](https://ldevernay.github.io/search.html).  
+Bref, [la recherche, c'est fait](/search.html).  
 
 ## Apprendre à compter (version Node.js)
 Récemment, je travaillais avec apprenants sur un projet pédagogique très intéressant : proposer une appli mobile permettant à des SDF et autres personnes en situation de précarité de localiser autour d'eux les services et ressources disponibles.  
 Déjà, le principe est top.   
-Ensuite, histoire de proposer quelque chose de propre, léger et qui tienne le coup en l'absence d'internet, j'avais décidé de pimenter le truc en proposant aux apprenants de [créer une PWA](https://ldevernay.github.io/green/2019/09/16/pwa.html).  
+Ensuite, histoire de proposer quelque chose de propre, léger et qui tienne le coup en l'absence d'internet, j'avais décidé de pimenter le truc en proposant aux apprenants de [créer une PWA]({% post_url 2019-09-16-pwa %}).  
 Tout se passe bien jusqu'au moment où le client demande s'il peut avoir un décompte des installations effectuées. Dans l'absolu, rien d'insurmontable. Sauf si on veut rester sur l'idée d'un site aussi statique et léger que possible, sans avoir recours à des services tiers (bye bye Google... et les autres).   
 Cette fois, j'ai trouvé la solution [chez Flavio Copes](https://flaviocopes.com/count-visits-static-site/). Si vous ne le connaissez pas déjà, allez sur son site, c'est très complet sur le développement web.  Et, une fois de plus, on voit bien que DuckDuckGo est le meilleur ami du développeur quand il s'agit de trouver des réponses à des questions très tordues/spécifiques.  
 La solution en question consiste reprendre une veille astuce de mails commerciaux, à savoir une image invisible (un SVG d'un pixel de côté) chargé depuis un autre serveur. Le serveur en question est un simple serveur Node.js/Express qui incrémente un compteur à chaque fois que l'image est chargée.   

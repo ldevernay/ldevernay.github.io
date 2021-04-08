@@ -7,7 +7,7 @@ description: Le quatrième article sur les audits d’écoconception web réalis
 ---
 
 Voici le quatrième article sur les audits d’écoconception web réalisés dans le cadre de la formation à Simplon Carbonne.   
-Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](https://ldevernay.github.io/Audits.html).   
+Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](/Audits.html).   
 Nous attaquons le vif du sujet avec la présentation des audits réalisés pour l'ADEME et pour Act for Climate.  
 
 
@@ -104,7 +104,7 @@ Au final, on a un site qui est dans la moyenne et qui pourrait facilement arrive
 
 Etant donné qu'il s'agit d'un site Wordpress, les optimisations techniques reposent principalement sur l'installation des plugins adéquats (W3 Total Cache, Smush, etc) afin d'optimiser la compression des ressources, les images et le cache (entre autres).  
 Le thème devrait être abandonné en faveur d'un autre plus accessible et léger.   
-Je vous renvoie au passage sur [mon article sur l'écoconception web avec Wordpress](https://ldevernay.github.io/green/2019/12/13/wordpress_eco.html). 
+Je vous renvoie au passage sur [mon article sur l'écoconception web avec Wordpress]({% post_url 2019-12-13-wordpress_eco %}). 
 
 ## Conclusion
 Nous avons donc vu ici seulement la première moitié des audits réalisés (et seulement leurs conclusions, pour des raisons évidentes de place). Quelques tendances se dégagent déjà, à voir si elles se confirmeront par la suite.  

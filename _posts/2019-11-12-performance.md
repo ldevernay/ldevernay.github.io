@@ -5,8 +5,8 @@ date:   2019-11-12 10:59:53 +0200
 categories: green
 description: La suite des valeurs du développeur avec cette fois la performance.
 ---
-J'avais annoncé une série de billets suite à [celui sur les valeurs du développeur](https://ldevernay.github.io/green/2019/09/03/valeurs.html).
-Celui sur [l'accessibilité est déjà dispo](https://ldevernay.github.io/green/2019/10/20/accessibilite.html).
+J'avais annoncé une série de billets suite à [celui sur les valeurs du développeur]({% post_url 2019-09-03-valeurs %}).
+Celui sur [l'accessibilité est déjà dispo]({% post_url 2019-10-20-accessibilite %}).
 Voici celui sur la performance.  
 
 ### Performance pour le web

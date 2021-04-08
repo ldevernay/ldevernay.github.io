@@ -6,7 +6,7 @@ categories: green
 description: Pour conclure les billets sur les audits d'éco-conception, on se penche plus en détails sur la question de l'hébergeur, de la stack technique et de la sobriété numérique.  
 ---
   
-Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](https://ldevernay.github.io/Audits.html).   
+Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](/Audits.html).   
 Comme annoncé précédemment, on va ici s'intéresser au choix de l'hébergeur et de la stack technique ainsi qu'à la notion de sobriété fonctionnelle.
   
 ## Stack technique 
@@ -32,7 +32,7 @@ Des retours d'expérience commencent à paraître un peu partout. C'est une trè
 * jQuery est souvent à proscrire (en raison de sa lourdeur et de ses failles de sécurité). Des alternatives plus légères existent, comme [Cash](https://github.com/kenwheeler/cash). Plus généralement, [le site microjs](http://microjs.com/#jquery) propose des alternatives plus légères à de nombreuses librairies JS. 
 * [Les carousels](http://shouldiuseacarousel.com/) posent souvent des soucis d'accessibilité et de performance. Le plus simple peut être de composer les images sous forme de patchwork ou de disposer autrement la page pour que l'utilisateur ait directement accès à l'ensemble des informations qu'on veut lui transmettre.  
 * Soyez également vigilants sur [les polices utilisées](https://www.wholegraindigital.com/blog/performant-web-fonts/).   
-* Envisagez d'ajouter une fonctionnalité de recherche interne sur votre site si cela peut faciliter la vie de vos utilisateurs. Quitte à faire, essayez de [gérer cette fonctionnalité aussi légèrement que possible](https://ldevernay.github.io/green/2020/07/01/bricodeur-du-dimanche.html).
+* Envisagez d'ajouter une fonctionnalité de recherche interne sur votre site si cela peut faciliter la vie de vos utilisateurs. Quitte à faire, essayez de [gérer cette fonctionnalité aussi légèrement que possible]({% post_url 2020-07-01-bricodeur-du-dimanche %}).
 * Il y a quelques années, tout le monde voulait un forum. Ensuite, on est passés aux commentaires sur le site. Aujourd'hui, il faut à tout prix faire le lien avec les réseaux sociaux. Est-ce toujours pertinent ou nécessaire?      
 
 Et surtout...

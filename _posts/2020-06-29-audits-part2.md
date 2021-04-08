@@ -7,7 +7,7 @@ description: Le cinquième article sur les audits d’écoconception web réalis
 ---
 
 Voici le cinquième article sur les audits d’écoconception web réalisés dans le cadre de la formation à Simplon Carbonne.   
-Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](https://ldevernay.github.io/Audits.html).   
+Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](/Audits.html).   
 Nous verrons ici la suite et fin des audits réalisés, cette fois avec Simplon et l'Ecole de la Transition Ecologique. 
 
 
@@ -117,7 +117,7 @@ Il faudrait envisager des modules Wordpress (gratuits ou non mais il y a moyen d
 * Un module d'optimisation d'images (smush, ewww, robin, etc) 
 * Un module d'optimisation du code (autoptimize) 
 * Un module d'optimisation du cache (WP Super Cache, WP Rocket ou W3 Total Cache)       
-Pour le cas particulier de Wordpress, je me permets de vous renvoyer à un article publié ici-même : [Wordpress et éco-conception](https://ldevernay.github.io/green/2019/12/13/wordpress_eco.html)       
+Pour le cas particulier de Wordpress, je me permets de vous renvoyer à un article publié ici-même : [Wordpress et éco-conception]({% post_url 2019-12-13-wordpress_eco %})       
 
 
 

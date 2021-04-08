@@ -10,7 +10,7 @@ Après un mois de silence radio estival, voici un point rapide sur ce qui s'est 
 
 ## Des conférences!
 ### Les mains dans la tech
-En juillet dernier, j'intervenais au cours d'un webinaire organisé par [Simplon]() autour du sujet de l'écoconception pour le web. Il s'agit du premier d'une série appelée **[Les mains dans la tech](https://toolbox.simplon.co/article/lancement-des-webinaires-les-mains-dans-la-tech)**. [Les slides et le replay](https://ldevernay.github.io/assets/Les%20mains%20dans%20la%20tech%201%20-%20%C3%A9coconception.pdf) sont d'ores et déjà disponibles. Vous y trouverez aussi mes notes (que je blinde généralement de liens et ressources).  
+En juillet dernier, j'intervenais au cours d'un webinaire organisé par [Simplon]() autour du sujet de l'écoconception pour le web. Il s'agit du premier d'une série appelée **[Les mains dans la tech](https://toolbox.simplon.co/article/lancement-des-webinaires-les-mains-dans-la-tech)**. [Les slides et le replay](/assets/Les%20mains%20dans%20la%20tech%201%20-%20%C3%A9coconception.pdf) sont d'ores et déjà disponibles. Vous y trouverez aussi mes notes (que je blinde généralement de liens et ressources).  
 Si vous n'êtes pas encore familier du sujet, je trouve que c'est un bon premier contact. Vous verrez que la présentation a généré des discussions très intéressantes!  
   
 ### GreenIT Day

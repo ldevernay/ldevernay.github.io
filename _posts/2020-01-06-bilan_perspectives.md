@@ -23,7 +23,7 @@ De mon côté, j'ai pu sensibiliser et former ma promo d'apprenants en développ
 
 ## Perspectives 2020
 Faute de boule de cristal, c'est compliqué de se projeter dans 2020. Le sujet de l'écoconception web et plus généralement de l'impact environnemental du numérique a pris beaucoup d'importance en 2019 et ça laisse présager (ou espérer) que les choses vont bouger en 2020.  
-En ce qui me concerne, j'espère que les PWA vont continuer leur essor ([mon article à ce sujet](https://ldevernay.github.io/green/2019/09/16/pwa.html)).   
+En ce qui me concerne, j'espère que les PWA vont continuer leur essor ([mon article à ce sujet]({% post_url 2019-09-16-pwa %})).   
 Pareil pour la JAMSTACK ([que j'évoque dans le dernier article sur le wordpress éco-conçu](https://ldevernay.github.io/green/2019/12/13/wordpress_eco.html)).
 Je compte me pencher plus en détail sur [WebAssembly](https://rsms.me/wasm-intro) (qui promet d'alléger nos sites web).    
 Je vais aussi regarder de plus près les [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components). Cette approche modulaire pourrait à mon sens permettre d'augmenter la modularité et d'alléger les sites mais j'ai aussi peur que ça ne devienne une usine à gaz. Ca peut aussi être l'occasion de faciliter les interactions entre designers et développeurs, notamment lors de la construction d'un [design system](https://design-system-playground.netlify.com/). Bref, je vous dirai.   

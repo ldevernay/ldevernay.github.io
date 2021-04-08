@@ -52,7 +52,7 @@ Au sujet de ce dernier, il peut être pertinent d'aller plus précisément vers 
 * [First Contentful Paint](https://web.dev/first-contentful-paint/) : temps que met le navigateur pour afficher le premier élément du DOM
 * [Time to Interactive](https://web.dev/interactive/) : le temps qui s'écoule avant que le site ne soit totalement interactif
    
-> Le Performance Score de Fast of Slow remplace le PageSpeed Index de PageSpeed Insights [utilisé précédemment](https://ldevernay.github.io/green/2020/06/24/audits-part1.html). Il apparaît tout aussi pertinent mais Fast or Slow est lui-même préféré car plus complet.  
+> Le Performance Score de Fast of Slow remplace le PageSpeed Index de PageSpeed Insights [utilisé précédemment]({% post_url 2020-06-24-audits-part1 %}). Il apparaît tout aussi pertinent mais Fast or Slow est lui-même préféré car plus complet.  
 
 L'idée générale pour ces indicateurs est de fournir des éléments de comparaison et, au-delà des bonnes pratiques, d'avoir des ordres de grandeur dont on pourra mesurer l'évolution au fil du temps.
 

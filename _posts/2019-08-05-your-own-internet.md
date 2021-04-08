@@ -21,7 +21,7 @@ Si vous passez par une plateforme de blogging, assumez l'UX pourrie, les pubs in
 
 ## Une question d'identité
 Créer votre propre site web, c'est aussi l'occasion de montrer ce que vous savez faire et surtout où vous placez vos valeurs (voir plus haut sur ce qui concerne Facebook et Medium).  
-Les outils sont très nombreux (à commencer par Jekyll, Hugo et autres, sans avoir à foncer vers Wordpress et autres mammouths), à vous de choisir le plus adéquat. Essayez juste de garder les mains libres pour arranger le truc à votre sauce et profitez-en pour [justifiez vos choix](https://ldevernay.github.io/green/2019/07/02/dr-jekyll.html).   
+Les outils sont très nombreux (à commencer par Jekyll, Hugo et autres, sans avoir à foncer vers Wordpress et autres mammouths), à vous de choisir le plus adéquat. Essayez juste de garder les mains libres pour arranger le truc à votre sauce et profitez-en pour [justifiez vos choix]({% post_url 2019-07-02-dr-jekyll %}).   
 Est-ce-que vous préférez mettre en avant sur un CV un site que vous avez fait vous-même ou ce que vous avez posté sur un outil bourré de défauts?   
 
 ## Les freins

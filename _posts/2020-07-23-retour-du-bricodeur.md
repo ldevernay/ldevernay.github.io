@@ -117,7 +117,7 @@ Slide 3
 (...)
 ```
    
-Vous pouvez contempler ce que ça donne [ici](https://ldevernay.github.io/presentations/code.html). Le temps de les migrer sur le présent site et vous y trouverez bientôt [mes présentations](https://ldevernay.github.io/presentations). 
+Vous pouvez contempler ce que ça donne [ici](/presentations/code.html). Le temps de les migrer sur le présent site et vous y trouverez bientôt [mes présentations](/presentations). 
 
 ## Conclusion et axes d'amélioration
 Déjà, je suis content d'avoir trouvé une solution pour mes présentations.  

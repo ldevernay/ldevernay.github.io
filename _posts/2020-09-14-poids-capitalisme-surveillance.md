@@ -6,7 +6,7 @@ categories: contributions
 description: L'impact environnemental du numérique n'est pas seulement lié aux usages, il est avant tout à un modèle économique intrusif et inapproprié qui remet en question les fondamentaux du web.    
 
 ---
-J'ai déjà parlé ici des notions [d'écoconception web](https://ldevernay.github.io/green/2020/04/20/audits-ecoconception.html), [de design attentionnel](https://ldevernay.github.io/attention/2020/07/29/design-attentionnel.html) et de plusieurs autres notions liées au numérique responsable. Il est temps de connecter tout cela pour nous intéresser au capitalisme de surveillance et à son impact sur la planète et les individus. 
+J'ai déjà parlé ici des notions [d'écoconception web]({% post_url 2020-04-20-audits-ecoconception %}), [de design attentionnel]({% post_url 2020-07-29-design-attentionnel %}) et de plusieurs autres notions liées au numérique responsable. Il est temps de connecter tout cela pour nous intéresser au capitalisme de surveillance et à son impact sur la planète et les individus. 
 
 ## Une brève histoire du capitalisme de surveillance  
 ### Trouver une source de revenus pour le web  
@@ -35,7 +35,7 @@ Quelques années plus tard, un nouveau bouleversement allait accélérer la cade
 Les objets connectés représentent eux aussi la quintessence du capitalisme de surveillance : collecter nos données afin de nous proposer un service (et de générer du profit). Certains thermostats connectés peuvent ajuster la température à la demande mais aussi automatiquement lorsque vous être présent dans votre domicile. Les enceintes connectées sont à votre écoute pour répondre à vos besoins. Amenez tout ceci à l'échelle supérieure et vous obtenez une ville connectée.   
 La machine du capitalisme de surveillance est donc bien lancée et rien ne semble pouvoir l'arrêter. Prenons donc le temps de nous intéresser à ses outils et moyens afin de mieux cerner ses impacts.  
   
-> Attention, le propos ici n'est pas de dénigrer les apports du numérique et tous les services qu'il peut apporter mais bien de remettre en question le modèle économique ainsi que les priorités de ceux qui conçoivent ces outils et services. Au-delà du [solutionnisme technologique](https://ldevernay.github.io/green/2020/05/14/solution.html) se posent la question de l'éthique et de prioriser la planète et les individus.
+> Attention, le propos ici n'est pas de dénigrer les apports du numérique et tous les services qu'il peut apporter mais bien de remettre en question le modèle économique ainsi que les priorités de ceux qui conçoivent ces outils et services. Au-delà du [solutionnisme technologique]({% post_url 2020-05-14-solution %}) se posent la question de l'éthique et de prioriser la planète et les individus.
   
 ## Les outils et impacts du capitalisme de surveillance
 Comme nous venons de le voir, la collecte des données personnelles des internautes s'appuie sur tout un réseau d'outils.  
