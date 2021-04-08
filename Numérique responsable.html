@@ -1,0 +1,123 @@
+---
+layout: page
+title: Numérique responsable
+---
+
+<p>
+    Le numérique responsable se propage de plus en plus et c'est une excellente chose.
+    L'objectif de cette page est de revenir plus en détails sur cette notion, notamment en regroupant des ressources sur
+    le sujet.
+</p>
+<p>
+    C'est un sujet qui <a href="/about">me tient particulièrement à coeur</a> et que j'explore tout le temps, notamment
+    <a href="/presentations/GreenITDay_formation_et_numresp.html">chez Simplon</a>. Et c'est au coeur de ce que devraient être <a href="{% post_url 2019-09-03-valeurs %}">les valeurs d'un développeur</a> (et plus généralement d'un professionnel du numérique).
+</p>
+<p>
+    Si vous voyez des erreurs dans ce que je partage, si vous avez des liens à partager ou si vous voulez juste en
+    discuter, contactez-moi!
+</p>
+
+<h1> Définition </h1>
+<blockquote>
+    Le numérique responsable est une approche du numérique visant à rendre celui-ci respectueux de la planète et des
+    personnes.
+</blockquote>
+<p>
+    Afin de respecter cet objectif, le numérique responsable se décompose généralement en plusieurs volets, en fonction
+    des impacts que l'on va prendre en compte.
+</p>
+
+<h2>
+    Les différents volets du numérique responsable
+</h2>
+<p>
+    Ces différents volets sont liés entre eux et permettent, dans leur globalité, d'aborder une bonne partie des impacts
+    du numérique (et plus particulièrement du web).
+</p>
+<ul>
+    <li>
+        <a href="{% post_url 2019-10-20-accessibilite %}">Accessibilité</a>
+    </li>
+    <li>
+        <a href="{% post_url 2020-04-20-audits-ecoconception %}">Eco-conception</a> - voir plus bas sur cette page pour
+        un focus sur l'impact environnemental du numérique.
+    </li>
+    <li>
+        <a href="{% post_url 2020-05-03-securite %}">Sécurité</a>
+    </li>
+    <li>
+        <a href="{% post_url 2019-11-12-performance %}">Performance</a>
+    </li>
+    <li>
+        <a href="{% post_url 2020-07-29-design-attentionnel %}">Economie de l'attention</a>
+    </li>
+    <li>
+        <a href="{% post_url 2020-05-14-solution %}">Solutionnisme technologique</a>
+    </li>
+</ul>
+
+<h2>L'impact écologique du numérique</h2>
+<p>La prise de conscience autour de l'impact écologique du numérique prend beaucoup d'importance depuis quelques années.
+    Pour beaucoup de professionnels du numérique, il s'agit du point d'entrée vers la notion de numérique responsable.
+</p>
+<p>Je regroupe ici les différentes ressources liées à cette notion que l'on peut trouver sur mon site.</p>
+
+<h3>Les articles</h3>
+<ul>
+    <li>
+        <a href="/presentations/pollution-numerique.html">Des slides pour parler de l'impact écologique du numérique</a>
+    </li>
+    <li>
+        <a href="{% post_url 2020-11-23-ml-co2 %}">L'impact écologique de l'intelligence artificielle</a>
+    </li>
+    <li>
+        <a href="{% post_url 2020-09-14-poids-capitalisme-surveillance %}">L'insoutenable poids du capitalisme de
+            surveillance</a>
+    </li>
+    <li>
+        <a href="{% post_url 2020-09-21-jour-du-nettoyage %}">Le jour du nettoyage digital</a>
+    </li>
+    <li>
+        <a href="{% post_url 2019-12-13-wordpress_eco %}">Wordpress et éco-conception</a>
+    </li>
+    <li> Bidouillages divers et variés </li>
+    <ul>
+        <li>
+            <a href="{% post_url 2020-07-01-bricodeur-du-dimanche %}">Comptage de visiteurs et recherche</a>
+        </li>
+        <li>
+            <a href="{% post_url 2020-07-23-retour-du-bricodeur %}">Gestion légère de slides</a>
+        </li>
+        <li>
+            <a href="{% post_url 2020-06-01-badge %}">Website Carbon Badge</a>
+        </li>
+    </ul>
+</ul>
+
+<h3>Les audits</h3>
+<p>En 2019, mes apprenants et moi nous sommes demandés comment auditer un site du point de vue de son impact
+    environnemental. </p>
+<p> Dans <a href="{% post_url 2020-07-05-audits-conclusion %}">la conclusion</a>, vous trouverez la démarche que nous
+    avons retenue
+    pour aller à l'essentiel et évaluer rapidement l'impact d'un site.</p>
+<p> Dans <a href="{% post_url 2020-07-20-audits-bonus %}">les bonus</a>, on parle plus particulièrement de sobriété
+    numérique avec
+    quelques tips et bonnes pratiques afin de réduire l'impact de son site.</p>
+<p>La démarche est exposée ici. </p>
+<ul>
+    {% assign filtered_posts = site.posts | where_exp: "item", "item.title contains 'Audits d'" | sort: "date" %}
+    {% for post in filtered_posts %}
+    <li><a href="{{post.url}}">{{post.title}}</a></li>
+    {% endfor %}
+</ul>
+
+<h2> Se renseigner sur le numérique responsable </h2>
+Afin d'aller plus loin sur ce sujet, voici quelques ressources :
+<ul>
+    <li>
+        <a href="https://www.academie-nr.org/">Le MOOC de l'INR</a>
+    </li>
+    <li>
+        <a href="https://raindrop.io/collection/7258676">L'endroit où je stocke ce que je trouve sur le sujet</a>
+    </li>
+</ul>

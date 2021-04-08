@@ -6,7 +6,9 @@ categories: contributions
 description: L'impact environnemental du numérique n'est pas seulement lié aux usages, il est avant tout à un modèle économique intrusif et inapproprié qui remet en question les fondamentaux du web.    
 
 ---
-J'ai déjà parlé ici des notions [d'écoconception web]({% post_url 2020-04-20-audits-ecoconception %}), [de design attentionnel]({% post_url 2020-07-29-design-attentionnel %}) et de plusieurs autres notions liées au numérique responsable. Il est temps de connecter tout cela pour nous intéresser au capitalisme de surveillance et à son impact sur la planète et les individus. 
+J'avais annoncé une série de billets suite à [celui sur les valeurs du développeur]({% post_url 2019-09-03-valeurs %}).
+Vous pouvez les retrouver sur [la page dédiée au Numérique Responsable](/Numérique responsable.html). 
+Il est temps de connecter tout cela pour nous intéresser au capitalisme de surveillance et à son impact sur la planète et les individus. 
 
 ## Une brève histoire du capitalisme de surveillance  
 ### Trouver une source de revenus pour le web  

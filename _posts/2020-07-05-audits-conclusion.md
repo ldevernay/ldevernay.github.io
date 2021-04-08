@@ -7,7 +7,7 @@ description: Après tous ces audits, voici les premières conclusions et notamme
 ---
 
 Après plusieurs audits d'éco-conception, les premières conclusions s'imposent. Celles-ci ont pour objectif de faciliter la vie de ceux qui souhaiteraient aussi vérifier si un site respecte les bonnes pratiques d'éco-conception.   
-Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](https://ldevernay.github.io/Audits.html).  
+Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée au Numérique Responsable](/Numérique responsable.html).
 
 > Merci à Alain Tord du collectif GreenIT pour ses retours précieux.
    

@@ -6,7 +6,7 @@ categories: green
 description: Pour conclure les billets sur les audits d'éco-conception, on se penche plus en détails sur la question de l'hébergeur, de la stack technique et de la sobriété numérique.  
 ---
   
-Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](/Audits.html).   
+Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée au Numérique Responsable](/Numérique responsable.html).
 Comme annoncé précédemment, on va ici s'intéresser au choix de l'hébergeur et de la stack technique ainsi qu'à la notion de sobriété fonctionnelle.
   
 ## Stack technique 

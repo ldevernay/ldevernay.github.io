@@ -7,7 +7,7 @@ description: Le cinquième article sur les audits d’écoconception web réalis
 ---
 
 Voici le cinquième article sur les audits d’écoconception web réalisés dans le cadre de la formation à Simplon Carbonne.   
-Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](/Audits.html).   
+Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](/).   
 Nous verrons ici la suite et fin des audits réalisés, cette fois avec Simplon et l'Ecole de la Transition Ecologique. 
 
 

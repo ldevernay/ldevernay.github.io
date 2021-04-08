@@ -6,12 +6,9 @@ categories: attention
 description: Sur le sujet des valeurs du développeur, la question du design attentionnel est essentielle. En effet, le design permet aujourd'hui de manipuler facilement les utilisateurs, ce qui va à l'encontre d'un devoir de transparence et d'honnêteté à leur égard.  
 
 ---
-Maintenant que la série de billets sur les audits d'écoconception est bouclée, revenons sur [les valeurs du développeur]({% post_url 2019-09-03-valeurs %}). Pour rappel, on avait déjà abordé ici : 
-* [Accessibilité]({% post_url 2019-10-20-accessibilite %})
-* [Performance]({% post_url 2019-11-12-performance %})
-* [Eco-conception web]({% post_url 2020-04-20-audits-ecoconception %})
-* [La sécurité]({% post_url 2020-05-03-securite %})
-  
+J'avais annoncé une série de billets suite à [celui sur les valeurs du développeur]({% post_url 2019-09-03-valeurs %}).
+Vous pouvez les retrouver sur [la page dédiée au Numérique Responsable](/Numérique responsable.html).  
+
 Cette fois, intéressons-nous au design attentionnel. Cette notion regroupe toutes les pratiques de design qui visent à nous rendent accros à nos smartphones et plus généralement à certains outils numériques.  
 Pour aborder ce sujet, posez-vous ces questions : 
 * Quelle est la première chose que vous faites le matin? Le plus souvent, il s'agit de consulter son téléphone.

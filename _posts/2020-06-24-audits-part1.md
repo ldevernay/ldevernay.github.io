@@ -7,7 +7,7 @@ description: Le quatrième article sur les audits d’écoconception web réalis
 ---
 
 Voici le quatrième article sur les audits d’écoconception web réalisés dans le cadre de la formation à Simplon Carbonne.   
-Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](/Audits.html).   
+Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée au Numérique Responsable](/Numérique responsable.html).
 Nous attaquons le vif du sujet avec la présentation des audits réalisés pour l'ADEME et pour Act for Climate.  
 
 

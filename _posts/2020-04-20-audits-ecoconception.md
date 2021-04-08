@@ -7,7 +7,7 @@ description: Le second article sur les audits d'écoconception web réalisés da
 ---
 
 Voici le second article sur les audits d'écoconception web réalisés dans le cadre de la formation à Simplon Carbonne.   
-Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée](/Audits.html).  
+Vous trouverez tous les articles autour des audits d'écoconception web sur [la page dédiée au Numérique Responsable](/Numérique responsable.html).
 Ici, nous allons nous intéresser à la notion d'écoconception web.  
 Pour une fois, je vais essayer de faire court.
    

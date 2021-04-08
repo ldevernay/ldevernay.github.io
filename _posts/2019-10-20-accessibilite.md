@@ -7,8 +7,8 @@ description: La suite des valeurs du développeur avec cette fois l'accessibilit
 ---
 
 J'avais annoncé une série de billets suite à [celui sur les valeurs du développeur]({% post_url 2019-09-03-valeurs %}).
+Vous pouvez les retrouver sur [la page dédiée au Numérique Responsable](/Numérique responsable.html).
 Voici celui sur l'accessibilité.  
-Les autres suivront à leur rythme, le temps que je m'y replonge et que je fasse du tri dans les ressources à ma disposition.  
 
 ### Valeurs épisode 2 : accessibilité
 #### Problématique
