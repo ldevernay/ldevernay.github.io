@@ -8,9 +8,16 @@ permalink: /about/
 
 Tombé dans le Numérique Responsable il y a quelques années déjà, j'anime des ateliers de sensibilisation auprès de la Mission Locale 31 et des apprenants et salariés Simplon (ainsi que dans diverses écoles et universités). Je travaille sur l'intégration du sujet dans toutes les formations Simplon, sous ses divers aspects (accessibilité, écoconception, performance, économie de l'attention, données personnelles, etc).  
 Depuis deux ans, je prend part à l'organisation d'[un événement autour de l'Impact Écologique du Numérique](https://maisondelavenir.eu/developper-le-pouvoir-dagir/retour-sur-la-2eme-edition-de-limpact-ecologique-du-numerique/), en collaboration avec la Maison de l'Avenir.   
-Je produis régulièrement du contenu sur ce sujet ici-même et contribue au collectif [GreenIT](https://collectif.greenit.fr/) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/), notamment sur la création d'un référentiel d'écoconception de services numériques. J'ai aussi rejoint le [collectif GoodIT!](https://www.linkedin.com/company/collectif-good-it/) qui réunit des experts cherchant à sensibiliser sur le sujet du Numérique Responsable autour de Toulouse. 
+Je produis régulièrement du contenu sur ce sujet ici-même et contribue au collectif [GreenIT](https://collectif.greenit.fr/) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/), notamment sur la création d'un référentiel de conception responsable de services numériques. J'ai aussi rejoint le [collectif GoodIT!](https://www.linkedin.com/company/collectif-good-it/) qui réunit des experts cherchant à sensibiliser sur le sujet du Numérique Responsable autour de Toulouse. 
   
 Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), consultez [mon autre site](https://sites.google.com/site/labodebob/).
+
+## Interventions autour du Numérique Responsable
+* IMT Alès : sensibilisation au Numérique Responsable et à l'écoconception de service numérique
+* IMT Albi : module autour du Numérique Responsable (impact environnemental + écoconception + accessibilité + cybersécurité)
+* Telecom Paris : sensibilisation au Numérique Responsable, accompagnement de la DSI sur l'écoconception de services numériques
+* Université Toulouse Capitole 1 (MIAGE *Innovative Information Systems*) : module *Sustainable Information Systems*
+* Université Paul Valéry (Montpellier, MIASHS): sensibilisation au numérique responsable et à l'écoconception de service numérique
 
 ## Bibliographie sélective
 * [*Hands-On Sustainable Web Design*](https://branch.climateaction.tech/2020/10/10/hands-on-sustainable-web-design/), octobre 2020, magazine Branch (A Sustainable Internet for All).
@@ -24,3 +31,6 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 ![Expert OpQuast](/assets/opquast.png)  
 
 * [Expert OpQuast](https://directory.opquast.com/en/certificat/A8CB5E/)
+
+![Access42](/assets/logo_access42.jpg)
+* [Développer des sites web accessibles - 91.44%](https://access42.net/?lang=fr)
