@@ -28,7 +28,7 @@ Plaidoyer : publics, territoires, responsabilité et digitalisation.
 ///
 ## Pourquoi?
 * Nécessité de former des professionnels responsables. 
-* Nécessité de former au plus tôt. 
+* Nécessité de former au plus tôt (et tout le monde). 
 * Plus-value pour l'insertion pro. 
   
 !!!
@@ -56,6 +56,13 @@ Afin de faciliter la propagation du Numérique Responsable, on met en place des 
 Un livret pédagogique propose des liens vers ressources, des activités courtes pour les apprenants ainsi que des briefs projets et des sujets d'évaluation. Certains de ces items touchent le Numérique Responsable dans sa globalité, d'autres sont spécifiques à certains domaines. Ainsi chaque formateur peut piocher dedans pour introduire le Numérique Responsable dans son programme de formation.  
 Enfin, des offres courtes sont mises en place sur des sujets spécifiques (à destination des apprenants, des formateurs mais aussi de structures extérieures) : parcours certifiant sur l'accessibilité, ateliers de sensibilisation, accompagnements et formations. 
 ///
+## Bonus : ce truc étonnant que les professionnels veulent nous cacher
+Intégrer des objectifs liés au numérique responsable directement dans les briefs!
+!!!   
+Brief = énoncé pour embarquer les apprenants sur un projet.  
+Sur le terrain, le fait d'inclure le numérique responsable directement dans les briefs projets a fait ses preuves. Plutôt que de bombarder de la théorie, des bonnes pratiques, recommandations et outils, on impose des indicateurs de résultat sur les rendus (EcoIndex A ou B, pas d'erreur remontée avec Wave, score satisfaisant avec la matrice de captologie, etc). Il est ainsi plus facile et stimulant pour les apprenants de s'emparer du sujet.  
+Ainsi, ils construisent leur propre modèle mental sur ces sujets (guidés par le formateur). Dans ce cadre, la théorie, les bonnes pratiques et les outils n'interviennent que ponctuellement pour orienter. Et le dialogue n'en est que plus enrichissant pour tout le monde.  
+Cette façon de faire peut évidemment être déclinée dans des hackathons et autres, de façon similaire à ce qu'on envisagerait pour formuler un AAP (appel à projet) ou un CDC (cahier des charges).
 ## Contact
 * [Le site de Simplon](https://simplon.co)
 * Mon site web : [ldevernay.github.io](https://ldevernay.github.io/)
