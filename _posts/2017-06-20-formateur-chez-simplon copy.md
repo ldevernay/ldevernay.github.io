@@ -3,7 +3,7 @@ layout: post
 title:  "Vers l'infini et au-delà"
 date:   2021-10-14 12:00:00 +0200
 categories: bio
-description: Bilan après cinq années chez Simplon
+description: Bilan après cinq années chez Simplon.
 ---
 *(quasiment un an sans mettre à jour ce site, disons que j'ai fait un effort de sobriété numérique)*   
 # Comment résumer 5 ans en moins de vingt pages?
