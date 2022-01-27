@@ -15,6 +15,7 @@ Pour récupérer des infos et articles à lire, j'utilise quasi uniquement des n
 ### Veille autour du numérique responsable
 * [Curiously Green : Tom Greenwood de Wholegrain Digital partage des liens en rapport avec l'écoconception web](https://wholegraindigital.us2.list-manage.com/subscribe?u=f42fa6b0c5109bb180911581e&id=67d09558b3)
 * [Techologie : numérique et écologie](https://techologie.net/communaute.html)
+* [Newsletter Opquast](https://www.opquast.com/lettre-de-qualite-web-newsletter-opquast/)
 * [Règle 30 : autour de l'inclusion sur le web](https://numerama.us4.list-manage.com/subscribe?u=9cb7510365bb64697c6c1eafc&id=0e5eac528a)
 * [Tech Trash : la newsletter qui tape sur le numérique mais juste ce qu'il faut](https://www.techtrash.fr/newsletter) 
 * [Stéphanie Walter : du design, de l'accessibilité et plein de bonnes choses](https://stephaniewalter.design/blog/)
