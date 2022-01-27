@@ -6,23 +6,33 @@ categories: veille
 description: Des liens à foison.
 ---
 La dernière fois, je vous parlais de Raindrop, grâce auquel j'ai pu compiler et trier les liens issus de ma veille techno. Ils se trouvent ici : [https://raindrop.io/collection/7258291](https://raindrop.io/collection/7258291)   
+Mais j'ai surtout [un dossier Raindrop exclusivement consacré au Numérique Responsable](https://raindrop.io/laurent-devernay/numerique-responsable-7258676).
 Aujourd'hui, je vais revenir un peu plus en détails sur la façon dont je procède pour ma veille techno. 
 
 ## Les newsletters
 Pour récupérer des infos et articles à lire, j'utilise quasi uniquement des newsletters.
-* [Friday Front End](http://fridayfrontend.com/)
-* [Le must : HackerNewsLetter](http://www.hackernewsletter.com/)
-* [Des articles de design tous les jours](https://sidebar.io/)
-* [CSS et design](https://www.smashingmagazine.com/)
+  
+### Veille autour du numérique responsable
+* [Curiously Green : Tom Greenwood de Wholegrain Digital partage des liens en rapport avec l'écoconception web](https://wholegraindigital.us2.list-manage.com/subscribe?u=f42fa6b0c5109bb180911581e&id=67d09558b3)
+* [Techologie : numérique et écologie](https://techologie.net/communaute.html)
+* [Règle 30 : autour de l'inclusion sur le web](https://numerama.us4.list-manage.com/subscribe?u=9cb7510365bb64697c6c1eafc&id=0e5eac528a)
+* [Tech Trash : la newsletter qui tape sur le numérique mais juste ce qu'il faut](https://www.techtrash.fr/newsletter) 
+* [Stéphanie Walter : du design, de l'accessibilité et plein de bonnes choses](https://stephaniewalter.design/blog/)
+* [Gerry McGovern : tout ce qui a trait à l'impact environnemental du numérique](https://www.gerrymcgovern.com/new-thinking)
+* [This week in security : un aspect important du numérique responsable](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&id=a2457dc8ad)
+* [Algorithm Watch : l'impact des algos sur notre quotidien](https://algorithmwatch.org/en/newsletter/)
+* [Mais où va le web?](https://maisouvaleweb.fr)
+* [a11y weekly : accessibilité](https://a11yweekly.com/)
+
+### Veille généraliste développement web
+* [Frontend focus](https://frontendfoc.us/)
+* [HackerNewsLetter](http://www.hackernewsletter.com/)
+* [Smashing Magazine](https://www.smashingmagazine.com/)
 * [CSS-Tricks](https://css-tricks.com/)
-* [La newsletter WTF qui vaut le détour](http://bizzarodevs.com/)
-* [La newsletter qui tape sur les startups](https://www.techtrash.fr/newsletter) 
-* [Accessibilité](https://a11yweekly.com/)
-* [Sophos - sécurité](https://nakedsecurity.sophos.com/)
-* [5 liens par semaine sur le code](https://programmingdigest.net/digests)
-* [DevOps](https://devopsish.com/)
-* [DiscoverDev](https://www.discoverdev.io/)
-* [DigitalOcean](https://www.digitalocean.com/community/newsletter)
+* [BizarroDevs : la newsletter WTF qui vaut le détour](http://bizzarodevs.com/)
+* [Programming Digest : 5 liens par semaine autour du code pour aller plus loin](https://programmingdigest.net/digests)
+* [Javascript weekly](https://javascriptweekly.com/)
+* [UX Design Weekly](https://uxdesignweekly.com/)
 
 Sans compter quelques autres un peu plus anecdotiques.  
 Mais là, il y a déjà de quoi faire.   
