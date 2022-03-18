@@ -23,17 +23,17 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * Université Paul Valéry (Montpellier, MIASHS): sensibilisation au numérique responsable et à l'écoconception de service numérique ainsi qu'ateliers.
 
 ## Bibliographie sélective
-* [Etude sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales, Greenspector - 17 mars 2022](https://greenspector.com/fr/classement-2022-de-limpact-carbone-des-sites-web-des-ecoles-et-universites/)
+* [*Etude sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales, Greenspector - 17 mars 2022*](https://greenspector.com/fr/classement-2022-de-limpact-carbone-des-sites-web-des-ecoles-et-universites/)
 * [*Hands-On Sustainable Web Design*](https://branch.climateaction.tech/2020/10/10/hands-on-sustainable-web-design/), octobre 2020, magazine Branch (A Sustainable Internet for All).
 * [*How to Audit your website on a budget*](https://the-sustainable.dev/how-to-audit-your-website-on-a-budget/), septembre 2020, The Sustainable Dev.
 
 ## Vidéos
-* [Replay du webinaire sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales, Greenspector - 17 mars 2022](https://www.youtube.com/watch?v=-KT8gPsybH8)
+* [*Replay du webinaire sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales, Greenspector - 17 mars 2022*](https://www.youtube.com/watch?v=-KT8gPsybH8)
 * [*Numérique responsable, quelles formations?*](https://www.youtube.com/watch?v=jogXSmC0h5E&list=PL8tNJxaWQ-hLASiuBMfgou97DnFYXvsdA&index=7), GreenIT Day - 8 octobre 2020]
 * *Les Mains dans la Tech #1 : Eco-conception web (et au-delà)*, Simplon, juillet 2020, [slides](https://ldevernay.github.io/assets/Les%20mains%20dans%20la%20tech%201%20-%20%C3%A9coconception.pdf) et [replay](https://www.youtube.com/watch?v=NFAmj-XgFTo&feature=youtu.be).
 
 ## MOOC
-* [Impacts environnementaux du numérique, Inria/ClassCode - octobre 2021](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) : intervention en tant qu'expert. 
+* [*Impacts environnementaux du numérique, Inria/ClassCode - octobre 2021*](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) : intervention en tant qu'expert. 
 
 ## Référentiels
 * [RGESN (Référentiel général d'écoconception de services numériques), référentiel de la DINUM - octobre 2021](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) : relecture.
