@@ -36,8 +36,8 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * [*Impacts environnementaux du numérique, Inria/ClassCode - octobre 2021*](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) : intervention en tant qu'expert. 
 
 ## Référentiels
-* [RGESN (Référentiel général d'écoconception de services numériques), référentiel de la DINUM - octobre 2021](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/), Greenspector - 17 mars 2022 : relecture.
-* [GR491 (Guide de référence de conception responsable de services numériques)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/), référentiel de l'INR - octobre 2021 : contributeur.
+* [RGESN (Référentiel général d'écoconception de services numériques)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/), référentiel de la DINUM - octobre 2021 : relecture.
+* [GR491 (Guide de référence de conception responsable de services numériques)](https://gr491.isit-europe.org/), référentiel de l'INR - octobre 2021 : contributeur.
   
 ## Certifications
 ![Expert OpQuast](/assets/opquast.png)  
