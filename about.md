@@ -29,6 +29,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 
 ## Vidéos
 * [*Replay du webinaire sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales*](https://www.youtube.com/watch?v=-KT8gPsybH8), Greenspector - 17 mars 2022
+* [*Numérique responsable et durable : miser sur la formation*](https://www.youtube.com/watch?v=ZjeQg7YIy7Y&list=PL8tNJxaWQ-hKfklI1Jz6IV0_QDkSrdWYi&index=6), GreenIT Day - 7 octobre 2021  
 * [*Numérique responsable, quelles formations?*](https://www.youtube.com/watch?v=jogXSmC0h5E&list=PL8tNJxaWQ-hLASiuBMfgou97DnFYXvsdA&index=7), GreenIT Day - 8 octobre 2020
 * *Les Mains dans la Tech #1 : Eco-conception web (et au-delà)*, Simplon - juillet 2020 : [slides](https://ldevernay.github.io/assets/Les%20mains%20dans%20la%20tech%201%20-%20%C3%A9coconception.pdf) et [replay](https://www.youtube.com/watch?v=NFAmj-XgFTo&feature=youtu.be).
 
