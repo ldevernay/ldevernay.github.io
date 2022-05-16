@@ -23,6 +23,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * Université Paul Valéry (Montpellier, MIASHS): sensibilisation au numérique responsable et à l'écoconception de service numérique ainsi qu'ateliers.
 
 ## Bibliographie sélective
+* [*CAPTCHA et sobriété numérique*](https://greenspector.com/fr/captcha-et-sobriete-numerique/), Greenspector - 9 mai 2022
 * [*Etude sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales*](https://greenspector.com/fr/classement-2022-de-limpact-carbone-des-sites-web-des-ecoles-et-universites/), Greenspector - 17 mars 2022
 * [*Hands-On Sustainable Web Design*](https://branch.climateaction.tech/2020/10/10/hands-on-sustainable-web-design/), magazine Branch (A Sustainable Internet for All) - octobre 2020.
 * [*How to Audit your website on a budget*](https://the-sustainable.dev/how-to-audit-your-website-on-a-budget/), The Sustainable Dev - septembre 2020.
