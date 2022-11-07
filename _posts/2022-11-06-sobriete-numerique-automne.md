@@ -21,7 +21,7 @@ Plusieurs fois par an, Orange propose un magazine en ligne souvent lié au Numé
 A défaut de publier du contenu ici, j'ai pu rédiger plusieurs articles ces derniers mois. C'est très enthousiasmant et c'est aussi un bon moyen de creuser des sujets parfois un peu pointus. J'aimerais le faire plus souvent mais, faute de temps, c'est déjà pas mal. Les articles se trouvent ici : [https://greenspector.com/fr/blog/](https://greenspector.com/fr/blog/) 
 
 # Reboot Communication 
-La semaine prochaine, je prendrai la parole dans le cadre de Reboot Communication, sur la sobriété numérique. J'y serai avec Christophe Clouzeau et Christelle Gilabert : (https://www.rebootcommunication.org/programme/jour-5-vendredi-18-novembre/sobriete-numerique/](https://www.rebootcommunication.org/programme/jour-5-vendredi-18-novembre/sobriete-numerique/)   
+La semaine prochaine, je prendrai la parole dans le cadre de Reboot Communication, sur la sobriété numérique. J'y serai avec Christophe Clouzeau et Christelle Gilabert : [https://www.rebootcommunication.org/programme/jour-5-vendredi-18-novembre/sobriete-numerique/](https://www.rebootcommunication.org/programme/jour-5-vendredi-18-novembre/sobriete-numerique/)   
 Ca risque d'être intéressant de partager nos éclairages complémentaires sur ce sujet. 
 
 # Greentech Forum
