@@ -7,8 +7,10 @@ permalink: /about/
 ![Portrait LauDev](/assets/laudev-min.png)  
 
 Tombé dans le Numérique Responsable il y a plusieurs années déjà, j'anime des ateliers de sensibilisation et cours sur le sujet auprès de la Mission Locale 31, d'organismes de formation, d'écoles et d'universités. J'ai travaillé sur l'intégration du sujet dans les formations Simplon, sous ses divers aspects (accessibilité, écoconception, performance, économie de l'attention, données personnelles, etc).  
+En 2021, j'ai rejoint [Greenspector](https://greenspector.com) afin d'aller encore plus loin sur le sujet et en particulier sur ses aspects environnementaux.
 J'ai pris part à l'organisation d'[un événement autour de l'Impact Écologique du Numérique](https://maisondelavenir.eu/developper-le-pouvoir-dagir/retour-sur-la-2eme-edition-de-limpact-ecologique-du-numerique/), en collaboration avec la Maison de l'Avenir sur trois éditions consécutives.   
-Je produis régulièrement du contenu sur ce sujet ici-même et contribue au collectif [GreenIT](https://collectif.greenit.fr/) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/). J'ai notamment contribué à la création d'un référentiel de conception responsable de services numériques, [le GR491](https://gr491.isit-europe.org/). C'est dans ce cadre que j'ai pu relire [le Référentiel Général d'Ecoconception de Services Numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) de la DINUM. J'ai aussi rejoint le [collectif GoodIT!](https://www.linkedin.com/company/collectif-good-it/) qui réunit des experts cherchant à sensibiliser sur le sujet du Numérique Responsable autour de Toulouse. 
+Je produis régulièrement du contenu sur ce sujet ici-même et contribue au collectif [GreenIT](https://collectif.greenit.fr/) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/). J'ai notamment contribué à la création d'un référentiel de conception responsable de services numériques, [le GR491](https://gr491.isit-europe.org/). C'est dans ce cadre que j'ai pu relire [le Référentiel Général d'Ecoconception de Services Numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) de la DINUM. J'ai aussi rejoint le [collectif GoodIT!](https://www.linkedin.com/company/collectif-good-it/) qui réunit des experts cherchant à sensibiliser sur le sujet du Numérique Responsable autour de Toulouse.  
+En parallèle de tout cela, je travaille sur le sujet avec [le W3C afin d'établir des guidelines et des standards pour le web](https://www.w3.org/community/sustyweb/).
   
   
 Je travaille depuis fin 2021 pour [Greenspector](https://greenspector.com/fr/accueil/) afin de pouvoir me consacrer à plein temps au sujet du Numérique Responsable et en particulier à l'écoconception appliquée au domaine du web.  
@@ -23,6 +25,13 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * Université Paul Valéry (Montpellier, MIASHS): sensibilisation au numérique responsable et à l'écoconception de service numérique ainsi qu'ateliers.
 
 ## Bibliographie sélective
+* [*Comment concevoir des sites et applications moins énergivores*](https://www.orange.com/fr/magazines/innovation/crise-de-confiance-defi-ecologique-et-si-l-innovation-etait-une-solution/comment-concevoir-des-sites-et-applications-moins-energivores-un-expert-repond), Magazine Orange - Novembre 2022
+* [*Exigences de sobriété numérique pour les villes et collectivités – Classement*](https://greenspector.com/fr/exigences-de-sobriete-numerique-pour-les-villes-et-collectivites-classement/), Greenspector - 25 octobre 2022
+* [*Analyse des 10 sites nominés mobile excellence par Awwwards*](https://greenspector.com/fr/analyse-des-10-sites-nomines-mobile-excellence-par-awwwards/), Greenspector - 29 septembre 2022
+* [*Web Almanac 2022 - Sustainability chapter*](https://almanac.httparchive.org/en/2022/sustainability), Web Almanac 2022 - Septembre 2022
+* [*Le numérique responsable chez Greenspector*](https://greenspector.com/fr/le-numerique-responsable-chez-greenspector/), Greenspector - 24 août 2022
+* [*Un site sobre est-il nécessairement moche ?*](https://greenspector.com/fr/un-site-sobre-est-il-necessairement-moche/), Greenspector - 11 juillet 2022
+* [*Métavers et Numérique Responsable : métavert?*](https://greenspector.com/fr/metavert/), Greenspector - 14 juin 2022
 * [*CAPTCHA et sobriété numérique*](https://greenspector.com/fr/captcha-et-sobriete-numerique/), Greenspector - 9 mai 2022
 * [*Etude sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales*](https://greenspector.com/fr/classement-2022-de-limpact-carbone-des-sites-web-des-ecoles-et-universites/), Greenspector - 17 mars 2022
 * [*Hands-On Sustainable Web Design*](https://branch.climateaction.tech/2020/10/10/hands-on-sustainable-web-design/), magazine Branch (A Sustainable Internet for All) - octobre 2020.
