@@ -51,6 +51,8 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * [GR491 (Guide de référence de conception responsable de services numériques)](https://gr491.isit-europe.org/), référentiel de l'INR - octobre 2021 : contributeur.
   
 ## Certifications
+* [Expert INR - Silver](https://experts.isit-europe.org/fr/les-expertes-et-experts-nr/laurent-devernay/)  
+  
 ![Expert OpQuast](/assets/opquast.png)  
 
 * [Expert OpQuast](https://directory.opquast.com/en/certificat/A8CB5E/)
