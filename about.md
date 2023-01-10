@@ -25,6 +25,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * Université Paul Valéry (Montpellier, MIASHS): sensibilisation au numérique responsable et à l'écoconception de service numérique ainsi qu'ateliers.
 
 ## Bibliographie sélective
+* [*Réduire les impacts de l’autocomplétion*](https://greenspector.com/fr/reduire-les-impacts-de-lautocompletion/), Greenspector - 9 janvier 2023
 * [*Comment concevoir des sites et applications moins énergivores*](https://www.orange.com/fr/magazines/innovation/crise-de-confiance-defi-ecologique-et-si-l-innovation-etait-une-solution/comment-concevoir-des-sites-et-applications-moins-energivores-un-expert-repond), Magazine Orange - Novembre 2022
 * [*Exigences de sobriété numérique pour les villes et collectivités – Classement*](https://greenspector.com/fr/exigences-de-sobriete-numerique-pour-les-villes-et-collectivites-classement/), Greenspector - 25 octobre 2022
 * [*Analyse des 10 sites nominés mobile excellence par Awwwards*](https://greenspector.com/fr/analyse-des-10-sites-nomines-mobile-excellence-par-awwwards/), Greenspector - 29 septembre 2022
