@@ -25,15 +25,15 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * Université Paul Valéry (Montpellier, MIASHS): sensibilisation au numérique responsable et à l'écoconception de service numérique ainsi qu'ateliers.
 
 ## Bibliographie sélective
-* [*Réduire les impacts de l’autocomplétion*](https://greenspector.com/fr/reduire-les-impacts-de-lautocompletion/), Greenspector - 9 janvier 2023
-* [*Comment concevoir des sites et applications moins énergivores*](https://www.orange.com/fr/magazines/innovation/crise-de-confiance-defi-ecologique-et-si-l-innovation-etait-une-solution/comment-concevoir-des-sites-et-applications-moins-energivores-un-expert-repond), Magazine Orange - Novembre 2022
-* [*Exigences de sobriété numérique pour les villes et collectivités – Classement*](https://greenspector.com/fr/exigences-de-sobriete-numerique-pour-les-villes-et-collectivites-classement/), Greenspector - 25 octobre 2022
-* [*Analyse des 10 sites nominés mobile excellence par Awwwards*](https://greenspector.com/fr/analyse-des-10-sites-nomines-mobile-excellence-par-awwwards/), Greenspector - 29 septembre 2022
+* [*Réduire les impacts de l’autocomplétion*](https://greenspector.com/fr/reduire-les-impacts-de-lautocompletion/) + [english version](https://greenspector.com/en/reducing-the-impact-of-autocompletion/), Greenspector - 9 janvier 2023
+* [*Comment concevoir des sites et applications moins énergivores*](https://www.orange.com/fr/magazines/innovation/crise-de-confiance-defi-ecologique-et-si-l-innovation-etait-une-solution/comment-concevoir-des-sites-et-applications-moins-energivores-un-expert-repond) + [english version](https://www.orange.com/en/magazines/innovation/digital-innovation-do-you-trust-it-to-have-a-positive-impact/how-design-more-eco-efficient-websites-answers-expert), Magazine Orange - Novembre 2022
+* [*Exigences de sobriété numérique pour les villes et collectivités – Classement*](https://greenspector.com/fr/exigences-de-sobriete-numerique-pour-les-villes-et-collectivites-classement/) + [english version](https://greenspector.com/en/digital-sobriety-requirements-for-cities-and-communities-ranking/), Greenspector - 25 octobre 2022
+* [*Analyse des 10 sites nominés mobile excellence par Awwwards*](https://greenspector.com/fr/analyse-des-10-sites-nomines-mobile-excellence-par-awwwards/) + [english version](https://greenspector.com/en/analysis_sites_nominated_mobile_excellence_awwwards/), Greenspector - 29 septembre 2022
 * [*Web Almanac 2022 - Sustainability chapter*](https://almanac.httparchive.org/en/2022/sustainability), Web Almanac 2022 - Septembre 2022
-* [*Le numérique responsable chez Greenspector*](https://greenspector.com/fr/le-numerique-responsable-chez-greenspector/), Greenspector - 24 août 2022
-* [*Un site sobre est-il nécessairement moche ?*](https://greenspector.com/fr/un-site-sobre-est-il-necessairement-moche/), Greenspector - 11 juillet 2022
-* [*Métavers et Numérique Responsable : métavert?*](https://greenspector.com/fr/metavert/), Greenspector - 14 juin 2022
-* [*CAPTCHA et sobriété numérique*](https://greenspector.com/fr/captcha-et-sobriete-numerique/), Greenspector - 9 mai 2022
+* [*Le numérique responsable chez Greenspector*](https://greenspector.com/fr/le-numerique-responsable-chez-greenspector/) + [english version](https://greenspector.com/en/digital-sobriety-at-greenspector/), Greenspector - 24 août 2022
+* [*Un site sobre est-il nécessairement moche ?*](https://greenspector.com/fr/un-site-sobre-est-il-necessairement-moche/) + [english version](https://greenspector.com/en/does-a-sober-site-have-to-be-ugly/), Greenspector - 11 juillet 2022
+* [*Métavers et Numérique Responsable : métavert?*](https://greenspector.com/fr/metavert/) + [english version](https://greenspector.com/en/metaverse-and-digital-sobriety/), Greenspector - 14 juin 2022
+* [*CAPTCHA et sobriété numérique*](https://greenspector.com/fr/captcha-et-sobriete-numerique/) + [english version](https://greenspector.com/en/captcha-and-digital-sobriety/), Greenspector - 9 mai 2022
 * [*Etude sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales*](https://greenspector.com/fr/classement-2022-de-limpact-carbone-des-sites-web-des-ecoles-et-universites/), Greenspector - 17 mars 2022
 * [*Hands-On Sustainable Web Design*](https://branch.climateaction.tech/2020/10/10/hands-on-sustainable-web-design/), magazine Branch (A Sustainable Internet for All) - octobre 2020.
 * [*How to Audit your website on a budget*](https://the-sustainable.dev/how-to-audit-your-website-on-a-budget/), The Sustainable Dev - septembre 2020.
