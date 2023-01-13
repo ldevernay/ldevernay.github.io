@@ -56,7 +56,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
   
 ![Expert OpQuast](/assets/opquast.png)  
 
-* [Expert OpQuast](https://directory.opquast.com/en/certificat/A8CB5E/)
+* [Expert OpQuast](https://directory.opquast.com/fr/certificat/F48V5U/)
 
 ![Access42](/assets/logo_access42.jpg)
 * [Développer des sites web accessibles - 91.44%](https://access42.net/?lang=fr)
