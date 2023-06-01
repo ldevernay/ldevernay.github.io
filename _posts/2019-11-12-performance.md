@@ -32,7 +32,7 @@ Pour avancer rapidement sur ce sujet, [ce cours Udacity est particulièrement bi
 - Prendre en compte [le cache](https://jakearchibald.com/2016/caching-best-practices/).
 - Attention aux polices spécifiques qu'il faut charger. [Au-delà de ces conseils pour optimiser le chargement](https://css-tricks.com/three-techniques-performant-custom-font-usage/), vous pouvez aussi trouver des outils pour créer un subset d'une police (et ne garder que les caractères dont vous avez besoin).
 
-Pas mal de tâches peuvent être [automatisées grâce à Gulp](https://ldevernay.github.io/green/2019/08/13/eco-gulp.html) (entre autres).
+Pas mal de tâches peuvent être automatisées grâce à Gulp (entre autres).
 
 Si le cours Udacity est trop long pour vous (comptez une petite demi-journée pour le suivre en entier) ou si le format ne vous convient pas, voici [une série d'articles très bien fichus sur le sujet](https://buttercms.com/blog/front-end-performance-for-beginners).   
 Sinon, O'Reilly propose l'ouvrage [Designing for Performance](http://shop.oreilly.com/product/0636920033578.do). Toutes les étapes d'un projet y sont considérées, jusqu'à la mise en place de bonnes pratiques au niveau d'une entreprise.  
