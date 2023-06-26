@@ -25,9 +25,15 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * Université Paul Valéry (Montpellier, MIASHS): sensibilisation au numérique responsable et à l'écoconception de service numérique ainsi qu'ateliers.
 
 ## Bibliographie sélective
+### 2023
+* [*Bonne pratique : optimiser les polices de caractères*](https://greenspector.com/fr/bonne-pratique-optimiser-les-polices-de-caracteres/) + [english version](https://greenspector.com/en/best-practice-optimizing-fonts/), Greenspector - 16 mai 2023
+* [*Bonne pratique : Limiter le nombre de services tiers*](https://greenspector.com/fr/bonne-pratique-limiter-le-nombre-de-services-tiers/) + [english version](https://greenspector.com/en/best-practice-limit-the-number-of-third-party-services/), Greenspector - 12 avril 2023
+* [*Etude de cas Bruxelles Environnement*](https://greenspector.com/fr/ressources/etude-de-cas/bruxelles-environnement-ecobuild/), Greenspector
 * [*Hébergeurs web, impact et actions de sobriété*](https://greenspector.com/fr/hebergeurs-impact-et-actions-de-sobriete/) + [english version](https://greenspector.com/en/web-hosts-impact-and-sobriety-actions/), Greenspector - 8 février 2023
 * [*Optimiser son site pour l’impression*](https://greenspector.com/fr/optimiser-son-site-pour-limpression/) + [english version](https://greenspector.com/en/optimising-your-website-for-print/), Greenspector - 11 janvier 2023
 * [*Réduire les impacts de l’autocomplétion*](https://greenspector.com/fr/reduire-les-impacts-de-lautocompletion/) + [english version](https://greenspector.com/en/reducing-the-impact-of-autocompletion/), Greenspector - 9 janvier 2023
+
+### 2022
 * [*Comment concevoir des sites et applications moins énergivores*](https://www.orange.com/fr/magazines/innovation/crise-de-confiance-defi-ecologique-et-si-l-innovation-etait-une-solution/comment-concevoir-des-sites-et-applications-moins-energivores-un-expert-repond) + [english version](https://www.orange.com/en/magazines/innovation/digital-innovation-do-you-trust-it-to-have-a-positive-impact/how-design-more-eco-efficient-websites-answers-expert), Magazine Orange - Novembre 2022
 * [*Exigences de sobriété numérique pour les villes et collectivités – Classement*](https://greenspector.com/fr/exigences-de-sobriete-numerique-pour-les-villes-et-collectivites-classement/) + [english version](https://greenspector.com/en/digital-sobriety-requirements-for-cities-and-communities-ranking/), Greenspector - 25 octobre 2022
 * [*Analyse des 10 sites nominés mobile excellence par Awwwards*](https://greenspector.com/fr/analyse-des-10-sites-nomines-mobile-excellence-par-awwwards/) + [english version](https://greenspector.com/en/analysis_sites_nominated_mobile_excellence_awwwards/), Greenspector - 29 septembre 2022
@@ -37,6 +43,9 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * [*Métavers et Numérique Responsable : métavert?*](https://greenspector.com/fr/metavert/) + [english version](https://greenspector.com/en/metaverse-and-digital-sobriety/), Greenspector - 14 juin 2022
 * [*CAPTCHA et sobriété numérique*](https://greenspector.com/fr/captcha-et-sobriete-numerique/) + [english version](https://greenspector.com/en/captcha-and-digital-sobriety/), Greenspector - 9 mai 2022
 * [*Etude sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales*](https://greenspector.com/fr/classement-2022-de-limpact-carbone-des-sites-web-des-ecoles-et-universites/), Greenspector - 17 mars 2022
+
+### Avant 2022
+*A noter qu'avant 2022, la plupart des contenus étaient publiés ici-même, directement sur mon site.*
 * [*Hands-On Sustainable Web Design*](https://branch.climateaction.tech/2020/10/10/hands-on-sustainable-web-design/), magazine Branch (A Sustainable Internet for All) - octobre 2020.
 * [*How to Audit your website on a budget*](https://the-sustainable.dev/how-to-audit-your-website-on-a-budget/), The Sustainable Dev - septembre 2020.
 
