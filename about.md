@@ -9,8 +9,8 @@ permalink: /about/
 Tombé dans le Numérique Responsable il y a plusieurs années déjà, j'anime des ateliers de sensibilisation et cours sur le sujet auprès de la Mission Locale 31, d'organismes de formation, d'écoles et d'universités. J'ai travaillé sur l'intégration du sujet dans les formations Simplon, sous ses divers aspects (accessibilité, écoconception, performance, économie de l'attention, données personnelles, etc).   
 J'ai pris part à l'organisation d'[un événement autour de l'Impact Écologique du Numérique](https://maisondelavenir.eu/developper-le-pouvoir-dagir/retour-sur-la-2eme-edition-de-limpact-ecologique-du-numerique/), en collaboration avec la Maison de l'Avenir sur trois éditions consécutives.   
    
-Je produis régulièrement du contenu sur ce sujet ici-même et contribue au collectif [GreenIT](https://collectif.greenit.fr/) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/). J'ai notamment contribué à la création d'un référentiel de conception responsable de services numériques, [le GR491](https://gr491.isit-europe.org/). C'est dans ce cadre que j'ai pu relire [le Référentiel Général d'Ecoconception de Services Numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) de la DINUM. J'ai aussi rejoint le [collectif GoodIT!](https://www.linkedin.com/company/collectif-good-it/) qui réunit des experts cherchant à sensibiliser sur le sujet du Numérique Responsable autour de Toulouse.  
-En parallèle de tout cela, je travaille sur le sujet avec [le W3C afin d'établir des guidelines et des standards pour le web](https://www.w3.org/community/sustyweb/).
+Je produis régulièrement du contenu sur ce sujet ici-même et contribue au collectif [GreenIT](https://collectif.greenit.fr/) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/). J'ai notamment contribué à la création d'un référentiel de conception responsable de services numériques, [le GR491](https://gr491.isit-europe.org/). C'est dans ce cadre que j'ai pu relire [le Référentiel Général d'Ecoconception de Services Numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) de la DINUM. 
+En parallèle de tout cela, je travaille sur le sujet avec [le W3C afin d'établir des guidelines et des standards pour le web](https://www.w3.org/community/sustyweb/) et j'ai contribué au [chapitre Sustainability du Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability).
   
   
 Je travaille depuis fin 2021 pour [Greenspector](https://greenspector.com/fr/accueil/) afin de pouvoir me consacrer à plein temps au sujet du Numérique Responsable et en particulier à l'écoconception appliquée au domaine du web.  
@@ -26,6 +26,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 
 ## Bibliographie sélective
 ### 2023
+* [*Le petit bout de la lorgnette – impacts environnementaux*](https://greenspector.com/fr/le-petit-bout-de-la-lorgnette/) + [english version](https://greenspector.com/en/a-closer-look/), Greenspector - 16 mai 2023
 * [*Bonne pratique : optimiser les polices de caractères*](https://greenspector.com/fr/bonne-pratique-optimiser-les-polices-de-caracteres/) + [english version](https://greenspector.com/en/best-practice-optimizing-fonts/), Greenspector - 16 mai 2023
 * [*Bonne pratique : Limiter le nombre de services tiers*](https://greenspector.com/fr/bonne-pratique-limiter-le-nombre-de-services-tiers/) + [english version](https://greenspector.com/en/best-practice-limit-the-number-of-third-party-services/), Greenspector - 12 avril 2023
 * [*Etude de cas Bruxelles Environnement*](https://greenspector.com/fr/ressources/etude-de-cas/bruxelles-environnement-ecobuild/), Greenspector
