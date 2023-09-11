@@ -11,7 +11,7 @@ I've been teaching for various schools and contributing to some groups like [Gre
 As such, I wrote some articles on this website but also elsewhere (see list below). 
 I also contributed to repositories of best practices like [GR491](https://gr491.isit-europe.org/en/) and general articles like the [Sustainability chapter for the Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability).  
   
-I am currently in a [working group from W3C to establish web sustainability guidelines](https://www.w3.org/community/sustyweb/).
+I am currently in a [working group from W3C to establish web sustainability guidelines](https://www.w3.org/community/sustyweb/), which lead to the publication of the [Web Sustainability Guidelines (WSG)](https://www.w3.org/community/sustyweb/2023/09/07/web-sustainability-guidelines/).
   
 
 ## Teaching about digital sustainability
