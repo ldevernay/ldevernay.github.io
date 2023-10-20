@@ -25,6 +25,4 @@ As such, ecodesign is usually divided in 4 levels.
 
 With these levels in mind, we can see more clearly where we're going. The lower level, the easier you will find best practices and tools to help you in this journey. To reach higher levels demands a lot more. This almost terra incognita right now. I do not mean that no one has been there yet but we are still in quite early in the process of mapping this precisely, providing guidelines, frameworks and such (in addition to inspiring examples). Fortunately some are already exploring this approach. I think of Tim Frick and Tom Greenwood and how their sustainability efforts have a deep impact on their companies. Patagonia could also provide great examples, for instance. 
 
-If you have any comment or examples for all this, feel free to share them. I'm really eager to see where your ecodesign/sustainability brings you.
-
 More on ecodesign of digital services in [the related page from the INRIA MOOC](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/en/Partie3/FichesConcept/FC3.4.1-EcoconceptionPilierEconomieCirculaire-MoocImpactNum.html).
