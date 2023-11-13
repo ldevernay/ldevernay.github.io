@@ -29,6 +29,11 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 
 ## Bibliographie sélective
 ### 2023
+* [*Le cadre législatif de l’écoconception de services numériques*](https://greenspector.com/fr/le-cadre-legislatif-de-lecoconception-de-services-numeriques/) + [english version](https://greenspector.com/en/the-legislative-framework-for-the-eco-design-of-digital-services/), Greenspector - 12 octobre 2023
+* [*Quel est l’impact environnemental d’ouvrir ou non les liens dans un autre onglet ?*](https://greenspector.com/fr/quel-est-limpact-environnemental-douvrir-ou-non-les-liens-dans-un-autre-onglet/) + [english version](https://greenspector.com/en/what-is-the-environmental-impact-of-opening-or-not-opening-links-in-another-tab/), Greenspector - 4 octobre 2023
+* [*Classement 2023 des impacts environnementaux des sites web de 31 écoles d’informatique*](https://greenspector.com/fr/classement-2023-des-impacts-environnementaux-des-sites-web-de-31-ecoles-dinformatique/), Greenspector - 26 septembre 2023
+* [*Publication des Web Sustainability Guidelines du W3C*](https://greenspector.com/fr/publication-des-web-sustainability-guidelines-du-w3c/) + [english version](https://greenspector.com/en/publication-of-the-w3c-web-sustainability-guidelines/), Greenspector - 13 septembre 2023
+* [*Quel est l’impact environnemental des jeux sur mobile en 2023 ?*](https://greenspector.com/fr/palmares-2023-des-jeux-sur-mobile/) + [english version](https://greenspector.com/en/what-is-the-environmental-impact-of-mobile-games-in-2023/), Greenspector - 7 septembre 2023
 * [*Le petit bout de la lorgnette – impacts environnementaux*](https://greenspector.com/fr/le-petit-bout-de-la-lorgnette/) + [english version](https://greenspector.com/en/a-closer-look/), Greenspector - 16 mai 2023
 * [*Bonne pratique : optimiser les polices de caractères*](https://greenspector.com/fr/bonne-pratique-optimiser-les-polices-de-caracteres/) + [english version](https://greenspector.com/en/best-practice-optimizing-fonts/), Greenspector - 16 mai 2023
 * [*Bonne pratique : Limiter le nombre de services tiers*](https://greenspector.com/fr/bonne-pratique-limiter-le-nombre-de-services-tiers/) + [english version](https://greenspector.com/en/best-practice-limit-the-number-of-third-party-services/), Greenspector - 12 avril 2023
