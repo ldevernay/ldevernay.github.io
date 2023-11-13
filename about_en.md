@@ -23,6 +23,10 @@ I am currently in a [working group from W3C to establish web sustainability guid
 
 ## Bibliographie sélective
 ### 2023
+* [The legislative framework for the eco-design of digital services](https://greenspector.com/en/the-legislative-framework-for-the-eco-design-of-digital-services/, Greenspector
+* [What is the environmental impact of opening or not opening links in another tab?](https://greenspector.com/en/what-is-the-environmental-impact-of-opening-or-not-opening-links-in-another-tab/), Greenspector
+* [Publication of the W3C Web Sustainability Guidelines](https://greenspector.com/en/publication-of-the-w3c-web-sustainability-guidelines/), Greenspector
+* [What is the environmental impact of mobile games in 2023?](https://greenspector.com/en/what-is-the-environmental-impact-of-mobile-games-in-2023/), Greenspector
 * [A closer look](https://greenspector.com/en/a-closer-look/), Greenspector
 * [Best practice: optimizing fonts](https://greenspector.com/en/best-practice-optimizing-fonts/), Greenspector
 * [Best Practice: Limit the number of third-party services](https://greenspector.com/en/best-practice-limit-the-number-of-third-party-services/), Greenspector
