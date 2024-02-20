@@ -28,7 +28,11 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * Université Paul Valéry (Montpellier, MIASHS): sensibilisation au numérique responsable et à l'écoconception de service numérique ainsi qu'ateliers.
 
 ## Bibliographie sélective
+### 2024
+* [*Réduire le poids d’une page web : quels sont les éléments les plus impactants ?*](https://greenspector.com/fr/reduire-poids-page-web-quels-elements-plus-impactants/) + [english version](https://greenspector.com/en/reduce-the-weight-of-a-web-page-which-elements-have-the-greatest-impact/), Greenspector - 12 février 2024
+  
 ### 2023
+* [*Quelle est la corrélation entre écoconception et sobriété éditoriale ?*](https://greenspector.com/fr/quelle-est-la-correlation-entre-ecoconception-et-sobriete-editoriale/) + [english version](https://greenspector.com/en/what-is-the-correlation-between-eco-design-and-editorial-sobriety/), Greenspector - 23 novembre 2023
 * [*Le cadre législatif de l’écoconception de services numériques*](https://greenspector.com/fr/le-cadre-legislatif-de-lecoconception-de-services-numeriques/) + [english version](https://greenspector.com/en/the-legislative-framework-for-the-eco-design-of-digital-services/), Greenspector - 12 octobre 2023
 * [*Quel est l’impact environnemental d’ouvrir ou non les liens dans un autre onglet ?*](https://greenspector.com/fr/quel-est-limpact-environnemental-douvrir-ou-non-les-liens-dans-un-autre-onglet/) + [english version](https://greenspector.com/en/what-is-the-environmental-impact-of-opening-or-not-opening-links-in-another-tab/), Greenspector - 4 octobre 2023
 * [*Classement 2023 des impacts environnementaux des sites web de 31 écoles d’informatique*](https://greenspector.com/fr/classement-2023-des-impacts-environnementaux-des-sites-web-de-31-ecoles-dinformatique/), Greenspector - 26 septembre 2023
