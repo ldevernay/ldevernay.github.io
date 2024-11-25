@@ -9,9 +9,9 @@ I discovered the topic of web sustainability back in 2018, when asked to partici
 I've been teaching for various schools and contributing to some groups like [GreenIT](https://collectif.greenit.fr/) and [INR (Institut du Numérique Responsable)](https://institutnr.org/).
 
 As such, I wrote some articles on this website but also elsewhere (see list below). 
-I also contributed to repositories of best practices like [GR491](https://gr491.isit-europe.org/en/) and general articles like the [Sustainability chapter for the Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability).  
+I also contributed to repositories of best practices like [GR491](https://gr491.isit-europe.org/en/) and general articles like the [Sustainability chapter for the Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability) and [2024](https://almanac.httparchive.org/en/2024/sustainability).  
   
-I am currently in a [working group from W3C to establish web sustainability guidelines](https://www.w3.org/community/sustyweb/), which lead to the publication of the [Web Sustainability Guidelines (WSG)](https://www.w3.org/community/sustyweb/2023/09/07/web-sustainability-guidelines/).
+I am currently in a [working group from W3C as an Invited Expert to establish web sustainability guidelines](https://www.w3.org/groups/ig/sustainableweb/), which lead to the publication of the [Web Sustainability Guidelines (WSG)](https://www.w3.org/community/sustyweb/2023/09/07/web-sustainability-guidelines/).
   
 
 ## Teaching about digital sustainability
@@ -23,6 +23,8 @@ I am currently in a [working group from W3C to establish web sustainability guid
 
 ## Bibliographie sélective
 ### 2024
+* [*Web Almanac 2024 - Sustainability chapter*](https://almanac.httparchive.org/en/2024/sustainability), Web Almanac 2024
+* [*Analysis of overconsumptions on a light website*](https://greenspector.com/en/analysis-of-overconsumptions-on-a-light-website-2/), Greenspector
 * [Reduce the weight of a web page: which elements have the greatest impact?](https://greenspector.com/en/reduce-the-weight-of-a-web-page-which-elements-have-the-greatest-impact/), Greenspector
   
 ### 2023

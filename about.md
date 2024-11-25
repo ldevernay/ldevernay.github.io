@@ -11,9 +11,9 @@ J'ai pris part à l'organisation d'[un événement autour de l'Impact Écologiqu
    
 Je produis régulièrement du contenu sur ce sujet ici-même et contribue au collectif [GreenIT](https://collectif.greenit.fr/) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/). J'ai notamment contribué à la création d'un référentiel de conception responsable de services numériques, [le GR491](https://gr491.isit-europe.org/). C'est dans ce cadre que j'ai pu relire [le Référentiel Général d'Ecoconception de Services Numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) de la DINUM.  
 
-En parallèle de tout cela, je travaille sur le sujet avec [le W3C afin d'établir des guidelines et des standards pour le web](https://www.w3.org/community/sustyweb/). Ainsi, les [Web Sustainability Guidelines (WSG)](https://www.w3.org/community/sustyweb/2023/09/07/web-sustainability-guidelines/) ont été publiées.  
+En parallèle de tout cela, je travaille sur le sujet avec [le W3C en tant qu'Expert invité afin d'établir des guidelines et des standards pour le web](https://www.w3.org/groups/ig/sustainableweb/). Ainsi, les [Web Sustainability Guidelines (WSG)](https://www.w3.org/community/sustyweb/2023/09/07/web-sustainability-guidelines/) ont été publiées.  
 
-J'ai également contribué au [chapitre Sustainability du Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability).
+J'ai également contribué au [chapitre Sustainability du Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability) et [2024](https://almanac.httparchive.org/en/2024/sustainability).
   
   
 Je travaille depuis fin 2021 pour [Greenspector](https://greenspector.com/fr/accueil/) afin de pouvoir me consacrer à plein temps au sujet du Numérique Responsable et en particulier à l'écoconception appliquée au domaine du web.  
@@ -29,9 +29,15 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 
 ## Bibliographie sélective
 ### 2024
+* [*Web Almanac 2024 - Sustainability chapter*](https://almanac.httparchive.org/en/2024/sustainability), Web Almanac 2024 - 11 novembre 2024
+* [*Analyse des surconsommations d’un site sobre*](https://greenspector.com/fr/analyse-des-surconsommations-dun-site-sobre/) + [english version](https://greenspector.com/en/analysis-of-overconsumptions-on-a-light-website-2/), Greenspector - 29 octobre 2024
+* [*Greenspector Studio et RGESN *](https://greenspector.com/fr/greenspector-studio-et-rgesn/), Greenspector - 3 octobre 2024
+* [*RGESN / loi REEN : de quoi parle-t-on ?*](https://greenspector.com/fr/rgesn-loi-reen-de-quoi-parle-t-on/), Greenspector - 21 mai 2024
+* [*Exigences de sobriété numérique pour les villes et collectivités – édition 2024*](https://greenspector.com/fr/exigences-de-sobriete-numerique-pour-les-villes-et-collectivites-edition-2024/), Greenspector - 14 mars 2024
 * [*Réduire le poids d’une page web : quels sont les éléments les plus impactants ?*](https://greenspector.com/fr/reduire-poids-page-web-quels-elements-plus-impactants/) + [english version](https://greenspector.com/en/reduce-the-weight-of-a-web-page-which-elements-have-the-greatest-impact/), Greenspector - 12 février 2024
   
 ### 2023
+* [*L'écoconception, c'est les autres*](https://www.24joursdeweb.fr/2023/lecoconception-cest-les-autres/) + [english version](https://ldevernay.github.io/green/2023/12/11/ecodesign_for_others.html), 24 jours de web - 5 décembre 2023
 * [*Quelle est la corrélation entre écoconception et sobriété éditoriale ?*](https://greenspector.com/fr/quelle-est-la-correlation-entre-ecoconception-et-sobriete-editoriale/) + [english version](https://greenspector.com/en/what-is-the-correlation-between-eco-design-and-editorial-sobriety/), Greenspector - 23 novembre 2023
 * [*Le cadre législatif de l’écoconception de services numériques*](https://greenspector.com/fr/le-cadre-legislatif-de-lecoconception-de-services-numeriques/) + [english version](https://greenspector.com/en/the-legislative-framework-for-the-eco-design-of-digital-services/), Greenspector - 12 octobre 2023
 * [*Quel est l’impact environnemental d’ouvrir ou non les liens dans un autre onglet ?*](https://greenspector.com/fr/quel-est-limpact-environnemental-douvrir-ou-non-les-liens-dans-un-autre-onglet/) + [english version](https://greenspector.com/en/what-is-the-environmental-impact-of-opening-or-not-opening-links-in-another-tab/), Greenspector - 4 octobre 2023
@@ -64,10 +70,13 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * [*How to Audit your website on a budget*](https://the-sustainable.dev/how-to-audit-your-website-on-a-budget/), The Sustainable Dev - septembre 2020.
 
 ## Vidéos
+* [Drupal and Sustainability / REEN, RGESN et Drupal - Meetup Drupal France](https://www.youtube.com/watch?v=q13KYKNWK94), Greenspector - 30 mai 2024
+* [Communauté écoconception des Designers Ethiques - Retour d'expérience Bruxelles Environnement](https://peertube.designersethiques.org/w/sHVF9NeEfjTz3NyTRaVejm), Greenspector - 16 mai 2024
+* [RGESN, comment s'y préparer?](https://www.youtube.com/watch?v=aIItAV07X3k&t=8s), Greenspector - 4 avril 2024
 * [*Replay du webinaire sur l'impact carbone des sites web de 187 universités et écoles françaises et mondiales*](https://www.youtube.com/watch?v=-KT8gPsybH8), Greenspector - 17 mars 2022
 * [*Numérique responsable et durable : miser sur la formation*](https://www.youtube.com/watch?v=ZjeQg7YIy7Y&list=PL8tNJxaWQ-hKfklI1Jz6IV0_QDkSrdWYi&index=6), GreenIT Day - 7 octobre 2021  
 * [*Numérique responsable, quelles formations?*](https://www.youtube.com/watch?v=jogXSmC0h5E&list=PL8tNJxaWQ-hLASiuBMfgou97DnFYXvsdA&index=7), GreenIT Day - 8 octobre 2020
-* *Les Mains dans la Tech #1 : Eco-conception web (et au-delà)*, Simplon - juillet 2020 : [slides](https://ldevernay.github.io/assets/Les%20mains%20dans%20la%20tech%201%20-%20%C3%A9coconception.pdf) et [replay](https://www.youtube.com/watch?v=NFAmj-XgFTo&feature=youtu.be).
+* *Les Mains dans la Tech #1 : Eco-conception web (et au-delà)*, Simplon - juillet 2020 : [slides en PDF](https://ldevernay.github.io/assets/Les%20mains%20dans%20la%20tech%201%20-%20%C3%A9coconception.pdf).
 
 ## MOOC
 * [*Impacts environnementaux du numérique, Inria/ClassCode - octobre 2021*](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) : intervention en tant qu'expert. 
