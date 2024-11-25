@@ -31,7 +31,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 ### 2024
 * [*Web Almanac 2024 - Sustainability chapter*](https://almanac.httparchive.org/en/2024/sustainability), Web Almanac 2024 - 11 novembre 2024
 * [*Analyse des surconsommations d’un site sobre*](https://greenspector.com/fr/analyse-des-surconsommations-dun-site-sobre/) + [english version](https://greenspector.com/en/analysis-of-overconsumptions-on-a-light-website-2/), Greenspector - 29 octobre 2024
-* [*Greenspector Studio et RGESN *](https://greenspector.com/fr/greenspector-studio-et-rgesn/), Greenspector - 3 octobre 2024
+* [*Greenspector Studio et RGESN*](https://greenspector.com/fr/greenspector-studio-et-rgesn/), Greenspector - 3 octobre 2024
 * [*RGESN / loi REEN : de quoi parle-t-on ?*](https://greenspector.com/fr/rgesn-loi-reen-de-quoi-parle-t-on/), Greenspector - 21 mai 2024
 * [*Exigences de sobriété numérique pour les villes et collectivités – édition 2024*](https://greenspector.com/fr/exigences-de-sobriete-numerique-pour-les-villes-et-collectivites-edition-2024/), Greenspector - 14 mars 2024
 * [*Réduire le poids d’une page web : quels sont les éléments les plus impactants ?*](https://greenspector.com/fr/reduire-poids-page-web-quels-elements-plus-impactants/) + [english version](https://greenspector.com/en/reduce-the-weight-of-a-web-page-which-elements-have-the-greatest-impact/), Greenspector - 12 février 2024
