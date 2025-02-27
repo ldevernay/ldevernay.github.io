@@ -39,7 +39,6 @@ Comment TikTok génère-t-il des revenus ?
 * Un algorithme pour choisir quoi vous montrer
 ///
 ## Captation de l'attention
-///
 D'après le CEO de Netflix, qui est leur principal concurrent?
 !!! 
 Récolter les réponses des participants, ça vaut souvent le détour. 
@@ -57,7 +56,6 @@ https://neurotracker.net/2017/05/24/humans-attention-span-shorter-than-goldfish/
 ///
 ## Comment ça marche?
 * Dopamine => FOMO
-* Retrouver l'attention
 * Design persuasif
 !!!
 https://www.arte.tv/fr/videos/RC-017841/dopamine/ : des documentaires très courts sur comment les applis mobiles les plus répandues s’appuient sur la dopamine pour cartonner. 
@@ -75,6 +73,7 @@ En conclusion, on a donc tout un tas de professionnels du numérique, de designe
 * Notifications ?
 * Incitation à utiliser régulièrement ? 
 * Gamification ? 
+  
 !!!
 Les réseaux sociaux étaient le laboratoire des mécanismes captologiques et restent les "champions" dans cette catégorie.
 Plus d'infos ici : 
@@ -103,9 +102,10 @@ Les autres effets et débordements liés aux réseaux sociaux :
 ## Impacts environnementaux du numérique
 * 40% de notre budget climat soutenable
 * Plus d'émissions de gaz à effet de serre que l'aviation civile
-* L'essentiel de l'impact du côté des terminaux utilisateur (fabrication) : +70 métaux/minéraux utilisés dont certains critiques au niveau de leur disponibilité
+* L'essentiel de l'impact du côté des terminaux utilisateur (fabrication)
 
 !!!
++70 métaux/minéraux utilisés dont certains critiques au niveau de leur disponibilité
 6 équipements par personne, durée de vie des téléphones augmente mais reste faible (2 ans et demi environ).
 * [Etude GreenIT.fr](https://www.greenit.fr/2025/02/04/le-numerique-cest-40-du-budget-climat-soutenable/)
 * [Une infographie sur le sujet](https://archives.qqf.fr/infographie/69/pollution-numerique-du-clic-au-declic)
@@ -118,8 +118,7 @@ Si possible, présenter la synthèse de la dernière étude GreenIT.fr.
 ![Face cachée du numérique](assets/face_cacheee_numerique.webp)
 
 !!!
-[Source](* [Comment adopter la sobriété numérique](https://librairie.ademe.fr/ged/9193/guide-comment-adopter-sobriete-numerique.pdf)
-)
+* [Comment adopter la sobriété numérique](https://librairie.ademe.fr/ged/9193/guide-comment-adopter-sobriete-numerique.pdf)
 
 ///
 ## Que faire pour réduire ces impacts ? 
@@ -155,11 +154,13 @@ Aussi, illustrer le slop en cherchant "baby peacock" dans Google Images.
 * Installer uBlock et BitWarden
 * Prendre conscience de ces impacts pour s'en prémunir
 * Suivre le [MOOC sur les impacts du numérique](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/)
+  
 !!!
 Si on a le temps, tour de table : qu'est-ce qu'un bon mot de passe (suffisamment long, caractères spéciaux, totalement aléatoire, usage unique)
 * [uBlock](https://ublockorigin.com/fr) : bloquer les pubs et trackers
 * [BitWarden](https://bitwarden.com/fr-fr/) : gestionnaire de mots de passe
 
+///
 ## Contact
 * Site web : [ldevernay.github.io](https://ldevernay.github.io/)
 * Courriel : laurent.devernay_AT_gmail_POINT_com
