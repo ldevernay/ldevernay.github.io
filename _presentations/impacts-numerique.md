@@ -90,9 +90,10 @@ Ce qu'on peut y faire :
 Les autres effets et débordements liés aux réseaux sociaux : 
 * Dépression
 * Altération/dégradation de l'image de soi
-* Cyberharcèlement (56% des jeunes ont déjà été victimes de cyberviolences)
+* Cyberharcèlement
 
 !!!
+56% des jeunes ont déjà été victimes de cyberviolences
 * [Ressources sur le cyber-harcèlement](https://www.internetsanscrainte.fr/dossiers/cyberharcelement-2)
 * [Comprendre le cyber-harcèlement](https://my.unicef.fr/article/comprendre-le-cyberharcelement/)
 * [Se prémunir du cyberharcèlement](https://www.nosvoixnoscombats.com/)
