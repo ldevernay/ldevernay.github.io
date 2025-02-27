@@ -135,7 +135,8 @@ Si possible, présenter la synthèse de la dernière étude GreenIT.fr.
 ///
 ## Et l'IA dans tout ça ? 
 * Des biais et des erreurs
-* Un système qui s'empoisonne
+* Un système qui s'empoisonne  
+
 !!!
 Si on a le temps, tester la Moral Machine du MIT. 
 Aussi, illustrer le slop en cherchant "baby peacock" dans Google Images. 
