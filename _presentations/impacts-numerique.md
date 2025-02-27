@@ -1,5 +1,5 @@
 ---
-title:  Impacts du numériques au quotidien
+title:  Impacts du numérique au quotidien
 date:   2025-02-26 08:59:53 +0200
 style: sky
 ---
