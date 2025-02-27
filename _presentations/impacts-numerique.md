@@ -115,7 +115,7 @@ La tendance était à l'augmentation des impacts, l'IA va encore accélérer cel
 Si possible, présenter la synthèse de la dernière étude GreenIT.fr. 
 
 ///
-![Face cachée du numérique](assets/face_cacheee_numerique.webp)
+![Face cachée du numérique](/assets/face_cacheee_numerique.webp)
 
 !!!
 * [Comment adopter la sobriété numérique](https://librairie.ademe.fr/ged/9193/guide-comment-adopter-sobriete-numerique.pdf)
@@ -132,7 +132,7 @@ Si possible, présenter la synthèse de la dernière étude GreenIT.fr.
 
 ///
 ## Retour aux réseaux sociaux
-![Comparatif réseaux sociaux](assets/classement-app-RS-FRANCAIS.webp)
+![Comparatif réseaux sociaux](/assets/classement-app-RS-FRANCAIS.webp)
 !!!
 [Article sur les impacts environnementaux des réseaux sociaux](https://greenspector.com/fr/quelle-empreinte-environnementale-pour-les-applications-reseaux-sociaux-edition-2023/)
 
