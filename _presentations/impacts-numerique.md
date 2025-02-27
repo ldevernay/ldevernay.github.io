@@ -130,12 +130,7 @@ Si possible, présenter la synthèse de la dernière étude GreenIT.fr.
 
 !!!
 * [10 gestes de sobriété numérique](https://librairie.ademe.fr/consommer-autrement/5885-10-gestes-de-sobriete-numerique-pour-tous.html)
-
-///
-## Retour aux réseaux sociaux
-![Comparatif réseaux sociaux](/assets/classement-app-RS-FRANCAIS.webp)
-!!!
-[Article sur les impacts environnementaux des réseaux sociaux](https://greenspector.com/fr/quelle-empreinte-environnementale-pour-les-applications-reseaux-sociaux-edition-2023/)
+* [Article sur les impacts environnementaux des réseaux sociaux](https://greenspector.com/fr/quelle-empreinte-environnementale-pour-les-applications-reseaux-sociaux-edition-2023/)
 
 ///
 ## Et l'IA dans tout ça ? 
@@ -144,7 +139,6 @@ Si possible, présenter la synthèse de la dernière étude GreenIT.fr.
 !!!
 Si on a le temps, tester la Moral Machine du MIT. 
 Aussi, illustrer le slop en cherchant "baby peacock" dans Google Images. 
-
 * [Moral machine](www.moralmachine.net/hl/fr)
 * [TED Talk sur le sujet](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms#t-50451)
 * [De l'automatisation à la discrimination](https://www.internetactu.net/2020/09/15/de-lautomatisation-de-la-discrimination/)
