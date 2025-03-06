@@ -140,7 +140,7 @@ Si possible, présenter la synthèse de la dernière étude GreenIT.fr.
 !!!
 Si on a le temps, tester la Moral Machine du MIT. 
 Aussi, illustrer le slop en cherchant "baby peacock" dans Google Images. 
-* [Moral machine](www.moralmachine.net/hl/fr)
+* [Moral machine](https://www.moralmachine.net/hl/fr)
 * [TED Talk sur le sujet](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms#t-50451)
 * [De l'automatisation à la discrimination](https://www.internetactu.net/2020/09/15/de-lautomatisation-de-la-discrimination/)
 * [Définition du slop](https://fr.wikipedia.org/wiki/Slop_(intelligence_artificielle))
