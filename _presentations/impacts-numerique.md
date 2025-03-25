@@ -36,7 +36,7 @@ Comment TikTok génère-t-il des revenus ?
 (et de la plupart des réseaux sociaux)
 
 * Des mécanismes pour vous capter et maintenir votre attention
-* Un algorithme pour choisir quoi vous montrer
+* Un algorithme pour choisir quoi vous montrer (bulle de filtre)
 ///
 ## Captation de l'attention
 D'après le CEO de Netflix, qui est leur principal concurrent?
@@ -91,6 +91,7 @@ Les autres effets et débordements liés aux réseaux sociaux :
 * Dépression
 * Altération/dégradation de l'image de soi
 * Cyberharcèlement
+* Fake news
 
 !!!
 56% des jeunes ont déjà été victimes de cyberviolences
@@ -98,6 +99,8 @@ Les autres effets et débordements liés aux réseaux sociaux :
 * [Comprendre le cyber-harcèlement](https://my.unicef.fr/article/comprendre-le-cyberharcelement/)
 * [Se prémunir du cyberharcèlement](https://www.nosvoixnoscombats.com/)
 * [Effets des réseaux sociaux sur les adolescent.e.s](https://www.journals.uchicago.edu/doi/full/10.1086/728739)
+* [Ressources contre les cyberviolences](https://echap.eu.org/ressources/)
+* [Internet sans crainte](https://www.internetsanscrainte.fr/)
 
 ///
 ## Impacts environnementaux du numérique
@@ -133,9 +136,19 @@ Si possible, présenter la synthèse de la dernière étude GreenIT.fr.
 * [Article sur les impacts environnementaux des réseaux sociaux](https://greenspector.com/fr/quelle-empreinte-environnementale-pour-les-applications-reseaux-sociaux-edition-2023/)
 
 ///
+## Principes de base de cybersécurité
+* Bien gérer ses mots de passe (avec un outil)
+* Pas de wifi public
+* Attention à ce qu'on branche
+
+!!!
+* [Bonnes pratiques individuelles](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/10-mesures-essentielles-assurer-securite-numerique)
+
+///
 ## Et l'IA dans tout ça ? 
 * Des biais et des erreurs
 * Un système qui s'empoisonne  
+* Des impacts environnementaux
 
 !!!
 Si on a le temps, tester la Moral Machine du MIT. 
