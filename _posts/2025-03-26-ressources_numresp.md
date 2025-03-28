@@ -16,8 +16,13 @@ Sans surprise, le support en question contient dans ses notes de nombreux outils
 Et si le sujet du Numérique Responsable vous intéresse, vous trouverez d'autres ressources ici : [https://ldevernay.github.io/Num%C3%A9rique%20responsable.html](https://ldevernay.github.io/Num%C3%A9rique%20responsable.html)
 
 
-## Les outils
-  
+## Outils et ressources
+
+### Avant toute chose...
+Si vous ne devez regarder qu'une ressource, ce sera celle-ci : [Le livret de la CNIL - mieux accompagner les adolescents dans leur vie numérique [PDF]](https://www.cnil.fr/sites/cnil/files/2025-03/livret_adultes_un_ocean_de_donnees.pdf). Ce livret vise les adultes qui veulent accompagner au mieux les adolescents. Mais : 
+* Le numérique arrive de plus en plus tôt dans le quotidien des enfants
+* Même si vous n'êtes pas/plus un adolescent, ce livret contient plusieurs piqûres de rappel très utiles. 
+   
 ### Temps sur les écrans (et captation de l'attention)
 #### Des actions pour sensibiliser 
 * Petit tour de table rapide : 
