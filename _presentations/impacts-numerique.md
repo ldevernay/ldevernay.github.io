@@ -173,4 +173,4 @@ Si on a le temps, tour de table : qu'est-ce qu'un bon mot de passe (suffisamment
 ## Contact
 * Site web : [ldevernay.github.io](https://ldevernay.github.io/)
 * Courriel : laurent.devernay_AT_gmail_POINT_com
-* Récapitulatif des ressources et outils : ![QR code - https://ldevernay.github.io/green/2025/03/26/ressources_numresp.html](assets/qrcode_ressources_numresp.png)
+* Récapitulatif des ressources et outils : ![QR code - https://ldevernay.github.io/green/2025/03/26/ressources_numresp.html](/assets/qrcode_ressources_numresp.png)
