@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ressources et outils autour de la sensibilisation numérique responsable"
+title:  "Comprendre et limiter les impacts du web"
 date:   2025-26-03 12:00:00 +0200
 categories: green
 description: Avoir les bonnes ressources et outils pour une meilleure utilisation du numérique
