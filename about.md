@@ -21,6 +21,7 @@ Je travaille depuis fin 2021 pour [Greenspector](https://greenspector.com/fr/acc
 Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), consultez [mon autre site](https://sites.google.com/site/labodebob/).
 
 ## Interventions autour du Numérique Responsable
+* Mission Locale Haute-Garonne : [Support et ressources](https://ldevernay.github.io/green/2025/03/26/ressources_numresp.html)
 * IMT Alès : sensibilisation au Numérique Responsable et à l'écoconception de service numérique
 * IMT Albi : module d'une vingtaine d'heures autour du Numérique Responsable (impact environnemental + écoconception + accessibilité + cybersécurité)
 * Telecom Paris : sensibilisation au Numérique Responsable, accompagnement de la DSI sur l'écoconception de services numériques
@@ -28,7 +29,9 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * Université Paul Valéry (Montpellier, MIASHS): sensibilisation au numérique responsable et à l'écoconception de service numérique ainsi qu'ateliers.
 
 ## Bibliographie sélective
+### 2025
 ### 2024
+* [(12 raisons de ne pas écoconcevoir un service numérique)](https://greenspector.com/fr/12-raisons-de-ne-pas-ecoconcevoir-un-service-numerique/) + [english version](https://greenspector.com/en/12-reasons-not-to-eco-design-a-digital-service/), Greenspector - 25 novembre 2024
 * [*Web Almanac 2024 - Sustainability chapter*](https://almanac.httparchive.org/en/2024/sustainability), Web Almanac 2024 - 11 novembre 2024
 * [*Analyse des surconsommations d’un site sobre*](https://greenspector.com/fr/analyse-des-surconsommations-dun-site-sobre/) + [english version](https://greenspector.com/en/analysis-of-overconsumptions-on-a-light-website-2/), Greenspector - 29 octobre 2024
 * [*Greenspector Studio et RGESN*](https://greenspector.com/fr/greenspector-studio-et-rgesn/), Greenspector - 3 octobre 2024
@@ -82,6 +85,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * [*Impacts environnementaux du numérique, Inria/ClassCode - octobre 2021*](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) : intervention en tant qu'expert. 
 
 ## Référentiels
+* [Web Sustainability GUidelines](https://w3c.github.io/sustainableweb-wsg/), référentiel du W3C : contributeur.
 * [RGESN (Référentiel général d'écoconception de services numériques)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/), référentiel de la DINUM - octobre 2021 : relecteur.
 * [GR491 (Guide de référence de conception responsable de services numériques)](https://gr491.isit-europe.org/), référentiel de l'INR - octobre 2021 : contributeur.
   

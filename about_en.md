@@ -15,6 +15,7 @@ I am currently in a [working group from W3C as an Invited Expert to establish we
   
 
 ## Teaching about digital sustainability
+* Mission Locale Haute-Garonne
 * IMT Alès
 * IMT Albi 
 * Telecom Paris 
@@ -23,6 +24,7 @@ I am currently in a [working group from W3C as an Invited Expert to establish we
 
 ## Bibliographie sélective
 ### 2024
+* [*12 reasons not to eco-design a digital service*](https://greenspector.com/en/12-reasons-not-to-eco-design-a-digital-service/), Greenspector
 * [*Web Almanac 2024 - Sustainability chapter*](https://almanac.httparchive.org/en/2024/sustainability), Web Almanac 2024
 * [*Analysis of overconsumptions on a light website*](https://greenspector.com/en/analysis-of-overconsumptions-on-a-light-website-2/), Greenspector
 * [Reduce the weight of a web page: which elements have the greatest impact?](https://greenspector.com/en/reduce-the-weight-of-a-web-page-which-elements-have-the-greatest-impact/), Greenspector
@@ -60,6 +62,7 @@ I am currently in a [working group from W3C as an Invited Expert to establish we
 * [*Environmental impacts of digital technologies, Inria/ClassCode - 2021*](https://www.fun-mooc.fr/en/courses/environmental-impacts-of-digital-technologies/)
 
 ## Référentiels
+* [Web Sustainability GUidelines - W3C](https://w3c.github.io/sustainableweb-wsg/)
 * [RGESN (Référentiel général d'écoconception de services numériques)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) - FR
 * [GR491 (Guide de référence de conception responsable de services numériques)](https://gr491.isit-europe.org/) - FR
   
