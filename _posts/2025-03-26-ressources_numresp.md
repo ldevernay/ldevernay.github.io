@@ -53,6 +53,7 @@ Si vous ne devez regarder qu'une ressource, ce sera celle-ci : [Le livret de la 
 * [https://my.unicef.fr/article/comprendre-le-cyberharcelement/](https://my.unicef.fr/article/comprendre-le-cyberharcelement/)
 
 ### Des outils pour se protéger
+* [STOP Cyberviolences](https://www.stopcyberviolences.org/)
 * [Guide d'autodéfense contre le cyberharcèlement](https://www.nosvoixnoscombats.com/)
 * [Je protège ma vie privée en ligne](https://www.guide-protection-numerique.com/)
 * [Association de lutte contre les cyberviolences sexistes](https://echap.eu.org/ressources/)
