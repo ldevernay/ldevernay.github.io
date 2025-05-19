@@ -62,7 +62,7 @@ I am currently in a [working group from W3C as an Invited Expert to establish we
 * [*Environmental impacts of digital technologies, Inria/ClassCode - 2021*](https://www.fun-mooc.fr/en/courses/environmental-impacts-of-digital-technologies/)
 
 ## Référentiels
-* [Web Sustainability GUidelines - W3C](https://w3c.github.io/sustainableweb-wsg/)
+* [Web Sustainability Guidelines - W3C](https://w3c.github.io/sustainableweb-wsg/)
 * [RGESN (Référentiel général d'écoconception de services numériques)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) - FR
 * [GR491 (Guide de référence de conception responsable de services numériques)](https://gr491.isit-europe.org/) - FR
   
