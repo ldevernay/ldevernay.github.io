@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chez LauDev
-email: ldevernay@simplon.co
+email: laurent.devernay@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Un blog minimaliste sur le code, la pédagogie et les jeux en tous genres.
   Et la veille techno, bien sûr! 
