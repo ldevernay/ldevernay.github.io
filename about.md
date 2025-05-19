@@ -30,6 +30,8 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 
 ## Bibliographie sélective
 ### 2025
+* [Ce qui ne va pas avec votre évaluation RGESN](https://greenspector.com/fr/feedback-rgesn/), Greenspector - 17 avril 2025
+
 ### 2024
 * [(12 raisons de ne pas écoconcevoir un service numérique)](https://greenspector.com/fr/12-raisons-de-ne-pas-ecoconcevoir-un-service-numerique/) + [english version](https://greenspector.com/en/12-reasons-not-to-eco-design-a-digital-service/), Greenspector - 25 novembre 2024
 * [*Web Almanac 2024 - Sustainability chapter*](https://almanac.httparchive.org/en/2024/sustainability), Web Almanac 2024 - 11 novembre 2024
@@ -73,6 +75,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * [*How to Audit your website on a budget*](https://the-sustainable.dev/how-to-audit-your-website-on-a-budget/), The Sustainable Dev - septembre 2020.
 
 ## Vidéos
+* [Communauté Écoconception : Table ronde - Auditer un produit avec le RGESN](https://peertube.designersethiques.org/w/wJphtFZ45yPc4CKitSUyTr), Designers éthiques - 23 avril 2025
 * [Drupal and Sustainability / REEN, RGESN et Drupal - Meetup Drupal France](https://www.youtube.com/watch?v=q13KYKNWK94), Greenspector - 30 mai 2024
 * [Communauté écoconception des Designers Ethiques - Retour d'expérience Bruxelles Environnement](https://peertube.designersethiques.org/w/sHVF9NeEfjTz3NyTRaVejm), Greenspector - 16 mai 2024
 * [RGESN, comment s'y préparer?](https://www.youtube.com/watch?v=aIItAV07X3k&t=8s), Greenspector - 4 avril 2024
