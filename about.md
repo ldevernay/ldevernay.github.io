@@ -21,6 +21,7 @@ Je travaille depuis fin 2021 pour [Greenspector](https://greenspector.com/fr/acc
 Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), consultez [mon autre site](https://sites.google.com/site/labodebob/).
 
 ## Interventions autour du Numérique Responsable
+* ARCEP : [Forum des parties prenantes](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/forum-parties-prenantes-rgesn-210525.html)  
 * Mission Locale Haute-Garonne : [Support et ressources](https://ldevernay.github.io/green/2025/03/26/ressources_numresp.html)
 * IMT Alès : sensibilisation au Numérique Responsable et à l'écoconception de service numérique
 * IMT Albi : module d'une vingtaine d'heures autour du Numérique Responsable (impact environnemental + écoconception + accessibilité + cybersécurité)
