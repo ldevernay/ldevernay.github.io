@@ -32,6 +32,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 ## Bibliographie sélective
 ### 2025
 * [Ce qui ne va pas avec votre évaluation RGESN](https://greenspector.com/fr/feedback-rgesn/), Greenspector - 17 avril 2025
+* [Climate Product Leaders Playbook](https://climateproductleaders.org/playbook/), relecture - mai 2025
 
 ### 2024
 * [(12 raisons de ne pas écoconcevoir un service numérique)](https://greenspector.com/fr/12-raisons-de-ne-pas-ecoconcevoir-un-service-numerique/) + [english version](https://greenspector.com/en/12-reasons-not-to-eco-design-a-digital-service/), Greenspector - 25 novembre 2024
