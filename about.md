@@ -9,12 +9,13 @@ permalink: /about/
 Tombé dans le Numérique Responsable il y a plusieurs années déjà, j'anime des ateliers de sensibilisation et cours sur le sujet auprès de la Mission Locale 31, d'organismes de formation, d'écoles et d'universités. J'ai travaillé sur l'intégration du sujet dans les formations Simplon, sous ses divers aspects (accessibilité, écoconception, performance, économie de l'attention, données personnelles, etc).   
 J'ai pris part à l'organisation d'[un événement autour de l'Impact Écologique du Numérique](https://maisondelavenir.eu/developper-le-pouvoir-dagir/retour-sur-la-2eme-edition-de-limpact-ecologique-du-numerique/), en collaboration avec la Maison de l'Avenir sur trois éditions consécutives.   
    
-Je produis régulièrement du contenu sur ce sujet ici-même et contribue au collectif [GreenIT](https://collectif.greenit.fr/) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/). J'ai notamment contribué à la création d'un référentiel de conception responsable de services numériques, [le GR491](https://gr491.isit-europe.org/). C'est dans ce cadre que j'ai pu relire [le Référentiel Général d'Ecoconception de Services Numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) de la DINUM.  
+Je produis régulièrement du contenu sur ce sujet ici-même et contribue au collectif [GreenIT](https://collectif.greenit.fr/) et à l'[INR (Institut du Numérique Responsable)](https://institutnr.org/).  
+* J'ai notamment contribué à la création d'un référentiel de conception responsable de services numériques, [le GR491](https://gr491.isit-europe.org/). C'est dans ce cadre que j'ai pu relire [le Référentiel Général d'Ecoconception de Services Numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) de la DINUM. Je prends également part au Consortium RGESN (groupement d'experts visant à faire évoluer le référentiel avec l'ARCEP).  
+* J'ai également contribué à [la V5 des 115 bonnes pratiques d'écoconception web](https://rweb.greenit.fr/fr) du collectif GreenIT.  
 
 En parallèle de tout cela, je travaille sur le sujet avec [le W3C en tant qu'Expert invité afin d'établir des guidelines et des standards pour le web](https://www.w3.org/groups/ig/sustainableweb/). Ainsi, les [Web Sustainability Guidelines (WSG)](https://www.w3.org/community/sustyweb/2023/09/07/web-sustainability-guidelines/) ont été publiées.  
 
-J'ai également contribué au [chapitre Sustainability du Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability) et [2024](https://almanac.httparchive.org/en/2024/sustainability).
-  
+J'ai également contribué au [chapitre Sustainability du Web Almanac 2022](https://almanac.httparchive.org/en/2022/sustainability) et [2024](https://almanac.httparchive.org/en/2024/sustainability) en tant que lead author. A partir de 2025, j'opte plutôt pour une simple relecture. 
   
 Je travaille depuis fin 2021 pour [Greenspector](https://greenspector.com/fr/accueil/) afin de pouvoir me consacrer à plein temps au sujet du Numérique Responsable et en particulier à l'écoconception appliquée au domaine du web.  
   
@@ -93,6 +94,7 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * [Web Sustainability Guidelines](https://w3c.github.io/sustainableweb-wsg/), référentiel du W3C : contributeur.
 * [RGESN (Référentiel général d'écoconception de services numériques)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/), référentiel de la DINUM - octobre 2021 : relecteur.
 * [GR491 (Guide de référence de conception responsable de services numériques)](https://gr491.isit-europe.org/), référentiel de l'INR - octobre 2021 : contributeur.
+* [115 bonnes pratiques d'écoconception web](https://rweb.greenit.fr/fr), collectif GreenIT - juin 2025 : contributeur.
   
 ## Certifications
 * [Expert INR - Silver](https://experts.isit-europe.org/fr/les-expertes-et-experts-nr/laurent-devernay/)  
