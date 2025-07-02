@@ -6,6 +6,13 @@ permalink: /about/
 
 ![Portrait LauDev](/assets/laudev-min.png)  
 
+* [Interventions autour du Numérique Responsable](#interventions-autour-du-numérique-responsable)
+* [Bibliographie sélective](#bibliographie-sélective)
+* [Vidéos](#vidéos)
+* [MOOC](#mooc)
+* [Référentiels](#référentiels)
+* [Certifications](#certifications)
+
 Tombé dans le Numérique Responsable il y a plusieurs années déjà, j'anime des ateliers de sensibilisation et cours sur le sujet auprès de la Mission Locale 31, d'organismes de formation, d'écoles et d'universités. J'ai travaillé sur l'intégration du sujet dans les formations Simplon, sous ses divers aspects (accessibilité, écoconception, performance, économie de l'attention, données personnelles, etc).   
 J'ai pris part à l'organisation d'[un événement autour de l'Impact Écologique du Numérique](https://maisondelavenir.eu/developper-le-pouvoir-dagir/retour-sur-la-2eme-edition-de-limpact-ecologique-du-numerique/), en collaboration avec la Maison de l'Avenir sur trois éditions consécutives.   
    
