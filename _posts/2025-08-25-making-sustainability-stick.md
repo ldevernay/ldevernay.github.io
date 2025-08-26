@@ -57,6 +57,7 @@ In addition to these recommendations, you can refer to these recommentations:
 * Accessibility first: **[2.21 Consider the impact of visitors using non-visual browsers](https://w3c.github.io/sustainableweb-wsg/#consider-the-impact-of-visitors-using-non-visual-browsers)**  
 * Be aware of the real added value of components: **[2.27 Ensure features provide maximum value for their impact](https://w3c.github.io/sustainableweb-wsg/#ensure-features-provide-maximum-value-for-their-impact)**  
 * Assess the impacts of third-party services: **[3.6 Third-party services should be assessed as first parties](https://w3c.github.io/sustainableweb-wsg/#third-party-services-should-be-assessed-as-first-parties)**  
+* Use the most efficient solution: **[3.19 Use the most efficient solution to implement your service](https://w3c.github.io/sustainableweb-wsg/#use-the-most-efficient-solution-to-implement-your-service)**
   
 In addition, provide an accessible version of the information on the map, for example in the form of a simple list (with the option to sort, filter, or search if necessary). If possible, the list can be offered as the default view. If there are only a few locations to display (as is sometimes the case on pages showing how to contact a company), it is best to opt for a simple postal address (or even an image showing the location).  
 
