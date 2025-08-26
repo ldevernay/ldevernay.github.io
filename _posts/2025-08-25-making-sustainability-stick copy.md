@@ -42,7 +42,7 @@ In the case of a simple animation, this criterion is also essential to take into
 **My response:** you're going to overwhelm the user with information and they won't go beyond the first few items.  
 Infinite scrolling is everywhere on social media, but also often on news and e-commerce sites. Be sure to keep these criteria in mind:  
 * Keep content easily findable: **[2.8 Ensure that navigation and way-finding are well-structured](https://w3c.github.io/sustainableweb-wsg/#ensure-that-navigation-and-way-finding-are-well-structured)**  
-* Attention is better than distraction: **[2.9 Be attentive rather than distracting](https://w3c.github.io/sustainableweb-wsg/#be-attentive-rather-than-distracting)**. It even has its own Success Criterion : **Avoid distraction**.
+* Attention is better than distraction: **[2.9 Be attentive rather than distracting](https://w3c.github.io/sustainableweb-wsg/#be-attentive-rather-than-distracting)**. It even has its own Success Criterion : **Avoid attention-keeping**.
 * Optimize displayed content: **[2.15 All images must be optimized for sustainability](https://w3c.github.io/sustainableweb-wsg/#all-images-must-be-optimized-for-sustainability)**  
 In addition, it is important for the user to know how the displayed elements are selected, sorted, and filtered. And to be able to change this if necessary.
   
