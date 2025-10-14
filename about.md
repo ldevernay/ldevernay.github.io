@@ -39,6 +39,10 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 
 ## Bibliographie sélective
 ### 2025
+* [Déclarations RGESN : le choc des mots, le poids des mesures](https://greenspector.com/rgesn_et_mesures/), Greenspector - 2 octobre 2025
+* [Définir le budget environnemental d’un service numérique](https://greenspector.com/budget-environnemental/), Greenspector - 28 août 2025
+* [Comment diffuser des publicités tout en tenant compte de leurs impacts environnementaux](https://greenspector.com/impacts-environnementaux-publicite/), Greenspector - 28 août 2025
+* [Impacts des principaux sites e-commerce en France – édition 2025](https://greenspector.com/impacts-des-principaux-sites-e-commerce-en-france-edition-2025/), Greenspector - 5 juin 2025
 * [Ce qui ne va pas avec votre évaluation RGESN](https://greenspector.com/fr/feedback-rgesn/), Greenspector - 17 avril 2025
 * [Climate Product Leaders Playbook](https://climateproductleaders.org/playbook/), relecture - mai 2025
 
@@ -98,8 +102,9 @@ Pour suivre mes aventures passées dans le monde du JDR papier (mais pas que), c
 * [*Impacts environnementaux du numérique, Inria/ClassCode - octobre 2021*](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) : intervention en tant qu'expert. 
 
 ## Référentiels
+* [Label NR](https://label-nr.fr/), contribution aux groupes de travail sur les impacts environnementaux et impacts sur l'humain.
 * [Web Sustainability Guidelines](https://w3c.github.io/sustainableweb-wsg/), référentiel du W3C : contributeur.
-* [RGESN (Référentiel général d'écoconception de services numériques)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/), référentiel de la DINUM - octobre 2021 : relecteur.
+* [RGESN (Référentiel général d'écoconception de services numériques)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/), référentiel de la DINUM - octobre 2021 : relecteur; Consortium RGESN - groupe de travail sur les audits et déclarations.
 * [GR491 (Guide de référence de conception responsable de services numériques)](https://gr491.isit-europe.org/), référentiel de l'INR - octobre 2021 : contributeur.
 * [115 bonnes pratiques d'écoconception web](https://rweb.greenit.fr/fr), collectif GreenIT - juin 2025 : contributeur.
   

@@ -23,10 +23,17 @@ I am currently in a [working group from W3C as an Invited Expert to establish we
 * Université Paul Valéry (Montpellier, MIASHS)
 
 ## Bibliographie sélective
+### 2025
+* [RGESN statements: the clash of words, the weight of measures](https://greenspector.com/en/rgesn-statements-the-clash-of-words-the-weight-of-measures/), Greenspector
+* [How to advertise while considering its environmental impact](https://greenspector.com/en/how-to-advertise-while-considering-its-environmental-impact/), Greenspector
+* [Defining the environmental budget for a digital service](https://greenspector.com/en/defining-the-environmental-budget-for-a-digital-service/), Greenspector
+* [Impacts of the mains e-commerce sites in France](https://greenspector.com/en/impacts-of-the-mains-e-commerce-sites-in-france/), Greenspector
+
 ### 2024
-* [*12 reasons not to eco-design a digital service*](https://greenspector.com/en/12-reasons-not-to-eco-design-a-digital-service/), Greenspector
-* [*Web Almanac 2024 - Sustainability chapter*](https://almanac.httparchive.org/en/2024/sustainability), Web Almanac 2024
-* [*Analysis of overconsumptions on a light website*](https://greenspector.com/en/analysis-of-overconsumptions-on-a-light-website-2/), Greenspector
+* [12 reasons not to eco-design a digital service](https://greenspector.com/en/12-reasons-not-to-eco-design-a-digital-service/), Greenspector
+* [RGESN / REEN law: what are we talking about?](https://greenspector.com/en/rgesn-reen-law-what-are-we-talking-about/), Greenspector
+* [Web Almanac 2024 - Sustainability chapter](https://almanac.httparchive.org/en/2024/sustainability), Web Almanac 2024
+* [Analysis of overconsumptions on a light website](https://greenspector.com/en/analysis-of-overconsumptions-on-a-light-website-2/), Greenspector
 * [Reduce the weight of a web page: which elements have the greatest impact?](https://greenspector.com/en/reduce-the-weight-of-a-web-page-which-elements-have-the-greatest-impact/), Greenspector
   
 ### 2023
